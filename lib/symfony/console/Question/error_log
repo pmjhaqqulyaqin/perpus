@@ -1,0 +1,8 @@
+[01-Apr-2025 03:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Question/ChoiceQuestion.php on line 21
+[01-Apr-2025 03:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Question/ConfirmationQuestion.php on line 19

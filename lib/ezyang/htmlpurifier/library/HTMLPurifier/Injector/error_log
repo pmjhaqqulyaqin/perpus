@@ -1,0 +1,28 @@
+[01-Apr-2025 03:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/SafeObject.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/SafeObject.php on line 7
+[01-Apr-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveEmpty.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveEmpty.php on line 3
+[01-Apr-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/DisplayLinkURI.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/DisplayLinkURI.php on line 6
+[01-Apr-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/Linkify.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/Linkify.php on line 6
+[01-Apr-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/PurifierLinkify.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/PurifierLinkify.php on line 7
+[01-Apr-2025 03:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveSpansWithoutAttributes.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/RemoveSpansWithoutAttributes.php on line 6
+[01-Apr-2025 03:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Injector" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/AutoParagraph.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Injector/AutoParagraph.php on line 9

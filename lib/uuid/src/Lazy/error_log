@@ -1,0 +1,4 @@
+[01-Apr-2025 03:25:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Lazy/LazyUuidFromString.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Lazy/LazyUuidFromString.php on line 55

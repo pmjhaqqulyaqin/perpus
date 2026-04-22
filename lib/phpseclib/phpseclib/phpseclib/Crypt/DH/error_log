@@ -1,0 +1,12 @@
+[01-Apr-2025 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DH" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/PublicKey.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/PublicKey.php on line 22
+[01-Apr-2025 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DH" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/PrivateKey.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/PrivateKey.php on line 22
+[01-Apr-2025 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DH" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Parameters.php on line 21

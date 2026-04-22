@@ -1,0 +1,24 @@
+[01-Apr-2025 03:30:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatterStyleStack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatterStyleStack.php on line 20
+[01-Apr-2025 03:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/NullOutputFormatter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/NullOutputFormatter.php on line 17
+[01-Apr-2025 03:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/WrappableOutputFormatterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/WrappableOutputFormatterInterface.php on line 19
+[01-Apr-2025 03:30:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\WrappableOutputFormatterInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatter.php on line 22
+[01-Apr-2025 03:31:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatterStyle.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/OutputFormatterStyle.php on line 21
+[01-Apr-2025 03:31:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/NullOutputFormatterStyle.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Formatter/NullOutputFormatterStyle.php on line 17

@@ -1,0 +1,1 @@
+[01-Apr-2025 03:12:36 UTC] PHP Fatal error:  Trait "SLiMS\Http\Utils" not found in /home/mandalo1/public_html/perpus/lib/Http/Client.php on line 19

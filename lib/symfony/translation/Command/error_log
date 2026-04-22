@@ -1,0 +1,12 @@
+[01-Apr-2025 03:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/TranslationPushCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/TranslationPushCommand.php on line 31
+[01-Apr-2025 03:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/TranslationPullCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/TranslationPullCommand.php on line 31
+[01-Apr-2025 03:30:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/XliffLintCommand.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Command/XliffLintCommand.php on line 34

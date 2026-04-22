@@ -1,0 +1,12 @@
+[26-Jan-2025 04:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/circulation/submenu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/circulation/submenu.php on line 23
+[01-Apr-2025 03:50:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INDEX_AUTH" in /home/mandalo1/public_html/perpus/admin/modules/circulation/circulation_base_lib.inc.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/circulation/circulation_base_lib.inc.php on line 24
+[01-Apr-2025 03:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/circulation/submenu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/circulation/submenu.php on line 23

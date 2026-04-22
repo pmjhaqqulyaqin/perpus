@@ -1,0 +1,12 @@
+[01-Apr-2025 03:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Lexer" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/DOMLex.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/DOMLex.php on line 27
+[01-Apr-2025 03:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Lexer" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/DirectLex.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/DirectLex.php on line 13
+[01-Apr-2025 03:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Lexer_DOMLex" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/PH5P.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Lexer/PH5P.php on line 13

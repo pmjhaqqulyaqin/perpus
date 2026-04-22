@@ -1,0 +1,12 @@
+[01-Apr-2025 03:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/PublicKey.php on line 31
+[01-Apr-2025 03:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/PrivateKey.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/PrivateKey.php on line 32
+[01-Apr-2025 03:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/Parameters.php on line 21

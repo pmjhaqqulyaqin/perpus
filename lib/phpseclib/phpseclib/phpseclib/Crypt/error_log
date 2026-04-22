@@ -1,0 +1,56 @@
+[01-Apr-2025 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\BlockCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Twofish.php on line 47
+[01-Apr-2025 03:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\AsymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA.php on line 44
+[01-Apr-2025 03:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Salsa20" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/ChaCha20.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/ChaCha20.php on line 24
+[01-Apr-2025 03:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\StreamCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RC4.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RC4.php on line 52
+[01-Apr-2025 03:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\StreamCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Salsa20.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Salsa20.php on line 26
+[01-Apr-2025 03:24:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\AsymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH.php on line 40
+[01-Apr-2025 03:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Rijndael" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/AES.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/AES.php on line 55
+[01-Apr-2025 03:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\BlockCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DES.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DES.php on line 51
+[01-Apr-2025 03:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\AsymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC.php on line 54
+[01-Apr-2025 03:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\AsymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA.php on line 69
+[01-Apr-2025 03:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\BlockCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RC2.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RC2.php on line 43
+[01-Apr-2025 03:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DES" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/TripleDES.php on line 42
+[01-Apr-2025 03:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\BlockCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php on line 67
+[01-Apr-2025 03:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\BlockCipher" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php on line 127

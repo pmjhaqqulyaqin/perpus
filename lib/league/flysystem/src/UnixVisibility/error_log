@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UnixVisibility\VisibilityConverter" not found in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UnixVisibility/PortableVisibilityConverter.php on line 10

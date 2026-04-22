@@ -1,0 +1,4 @@
+[01-Apr-2025 03:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Exception" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ConfigSchema/Exception.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ConfigSchema/Exception.php on line 6

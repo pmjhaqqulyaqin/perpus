@@ -1,0 +1,8 @@
+[01-Apr-2025 03:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Extractor/ChainExtractor.php on line 21
+[01-Apr-2025 03:29:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Extractor/PhpExtractor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Extractor/PhpExtractor.php on line 22

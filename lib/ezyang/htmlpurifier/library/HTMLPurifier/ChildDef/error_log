@@ -1,0 +1,32 @@
+[01-Apr-2025 03:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Chameleon.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Chameleon.php on line 12
+[01-Apr-2025 03:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Required.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Required.php on line 6
+[01-Apr-2025 03:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Table.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Table.php on line 32
+[01-Apr-2025 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Empty.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Empty.php on line 10
+[01-Apr-2025 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef_Required" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Optional.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Optional.php on line 10
+[01-Apr-2025 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Custom.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/Custom.php on line 9
+[01-Apr-2025 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/List.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/List.php on line 12
+[01-Apr-2025 03:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_ChildDef_Required" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/StrictBlockquote.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/ChildDef/StrictBlockquote.php on line 6

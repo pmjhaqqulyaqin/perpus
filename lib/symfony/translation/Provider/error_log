@@ -1,0 +1,16 @@
+[01-Apr-2025 03:29:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Provider\ProviderFactoryInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/AbstractProviderFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/AbstractProviderFactory.php on line 16
+[01-Apr-2025 03:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Provider\ProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/NullProvider.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/NullProvider.php on line 20
+[01-Apr-2025 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Provider\ProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/FilteringProvider.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/FilteringProvider.php on line 22
+[01-Apr-2025 03:30:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Provider\AbstractProviderFactory" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/NullProviderFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Provider/NullProviderFactory.php on line 19

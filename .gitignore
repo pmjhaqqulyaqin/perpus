@@ -1,0 +1,25 @@
+/php8.2/
+/composer.phar
+/update_pass.sql
+/test_db.php
+/database/*.sql
+/images/persons/*
+!/images/persons/index.html
+/images/docs/*
+!/images/docs/index.html
+/images/barcodes/*
+!/images/barcodes/index.html
+/images/labels/*
+!/images/labels/index.html
+/images/cache/*
+!/images/cache/index.html
+/files/*
+!/files/index.html
+/repository/*
+!/repository/index.html
+/cache/*
+!/cache/index.html
+
+# Ignore OS files
+.DS_Store
+Thumbs.db

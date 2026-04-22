@@ -1,0 +1,12 @@
+[01-Apr-2025 03:12:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\RichText\ITextElement" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/TextElement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/TextElement.php on line 5
+[01-Apr-2025 03:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\RichText\TextElement" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/Run.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/Run.php on line 7
+[01-Apr-2025 03:12:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/RichText.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/RichText/RichText.php on line 9

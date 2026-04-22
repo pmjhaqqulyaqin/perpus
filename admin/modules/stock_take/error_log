@@ -1,0 +1,9 @@
+[28-Sep-2024 05:41:35 Asia/Jakarta] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/admin/admin_template/printed_page_tpl.php on line 6
+[26-Jan-2025 04:42:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/stock_take/submenu.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/stock_take/submenu.php on line 25
+[01-Apr-2025 03:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/stock_take/submenu.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/stock_take/submenu.php on line 25

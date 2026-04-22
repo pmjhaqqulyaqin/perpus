@@ -1,0 +1,8 @@
+[01-Apr-2025 02:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cache\Contract" not found in /home/mandalo1/public_html/perpus/lib/Cache/Providers/Files.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cache/Providers/Files.php on line 13
+[01-Apr-2025 02:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cache\Contract" not found in /home/mandalo1/public_html/perpus/lib/Cache/Providers/Database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cache/Providers/Database.php on line 16

@@ -1,0 +1,20 @@
+[01-Apr-2025 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/NodeProviderCollection.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/NodeProviderCollection.php on line 31
+[01-Apr-2025 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\NodeProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/StaticNodeProvider.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/StaticNodeProvider.php on line 33
+[01-Apr-2025 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\NodeProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/RandomNodeProvider.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/RandomNodeProvider.php on line 36
+[01-Apr-2025 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\NodeProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/SystemNodeProvider.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/SystemNodeProvider.php on line 45
+[01-Apr-2025 03:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\NodeProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/FallbackNodeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Node/FallbackNodeProvider.php on line 25

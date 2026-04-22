@@ -1,0 +1,4 @@
+[01-Apr-2025 03:18:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing/Shadow.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Drawing/Shadow.php on line 8

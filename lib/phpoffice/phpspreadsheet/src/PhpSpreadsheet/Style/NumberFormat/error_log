@@ -1,0 +1,8 @@
+[01-Apr-2025 03:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\NumberFormat\BaseFormatter" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/FractionFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/FractionFormatter.php on line 7
+[01-Apr-2025 03:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\NumberFormat\BaseFormatter" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/PercentageFormatter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/NumberFormat/PercentageFormatter.php on line 7

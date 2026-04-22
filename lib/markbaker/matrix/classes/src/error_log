@@ -1,0 +1,8 @@
+[26-Jan-2025 04:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Exception" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Div0Exception.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Div0Exception.php on line 11
+[01-Apr-2025 03:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Exception" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Div0Exception.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Div0Exception.php on line 11

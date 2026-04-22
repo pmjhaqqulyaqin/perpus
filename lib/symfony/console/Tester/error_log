@@ -1,0 +1,2 @@
+[01-Apr-2025 03:30:21 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Tester/ApplicationTester.php on line 27
+[01-Apr-2025 03:30:21 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Tester/CommandTester.php on line 23

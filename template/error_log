@@ -1,0 +1,8 @@
+[26-Jan-2025 06:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Mail\TemplateContract" not found in /home/mandalo1/public_html/perpus/template/reserveMail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/reserveMail.php on line 14
+[01-Apr-2025 03:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Mail\TemplateContract" not found in /home/mandalo1/public_html/perpus/template/reserveMail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/reserveMail.php on line 14

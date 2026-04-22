@@ -1,0 +1,4 @@
+[01-Apr-2025 03:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Completion/CompletionInput.php on line 27

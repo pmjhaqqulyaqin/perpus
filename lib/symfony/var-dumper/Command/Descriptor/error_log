@@ -1,0 +1,8 @@
+[01-Apr-2025 03:30:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[01-Apr-2025 03:30:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25

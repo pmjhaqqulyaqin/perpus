@@ -1,0 +1,12 @@
+[01-Apr-2025 03:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "DASPRiD\Enum\AbstractEnum" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/ErrorCorrectionLevel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/ErrorCorrectionLevel.php on line 17
+[01-Apr-2025 03:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "DASPRiD\Enum\AbstractEnum" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/Mode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/Mode.php on line 22
+[01-Apr-2025 03:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "DASPRiD\Enum\AbstractEnum" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/CharacterSetEci.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Common/CharacterSetEci.php on line 41

@@ -1,0 +1,56 @@
+[01-Apr-2025 03:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Rels.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Rels.php on line 11
+[01-Apr-2025 03:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Comments.php on line 9
+[01-Apr-2025 03:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Table.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Table.php on line 9
+[01-Apr-2025 03:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Theme.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Theme.php on line 8
+[01-Apr-2025 03:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsVBA.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsVBA.php on line 8
+[01-Apr-2025 03:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/StringTable.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/StringTable.php on line 12
+[01-Apr-2025 03:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/ContentTypes.php on line 11
+[01-Apr-2025 03:18:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Worksheet.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Worksheet.php on line 21
+[01-Apr-2025 03:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/DocProps.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/DocProps.php on line 10
+[01-Apr-2025 03:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Drawing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Drawing.php on line 13
+[01-Apr-2025 03:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Style.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Style.php on line 16
+[01-Apr-2025 03:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Chart.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Chart.php on line 17
+[01-Apr-2025 03:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsRibbon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/RelsRibbon.php on line 8
+[01-Apr-2025 03:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Xlsx\WriterPart" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Workbook.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx/Workbook.php on line 11

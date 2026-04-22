@@ -1,0 +1,12 @@
+[01-Apr-2025 03:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_DefinitionCache" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Null.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Null.php on line 6
+[01-Apr-2025 03:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_DefinitionCache" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Decorator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Decorator.php on line 3
+[01-Apr-2025 03:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_DefinitionCache" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Serializer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/DefinitionCache/Serializer.php on line 3

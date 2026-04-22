@@ -1,0 +1,14 @@
+[26-Jan-2025 04:18:35 UTC] PHP Fatal error:  Trait "Carbon\Traits\ObjectInitialisation" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Serialization.php on line 35
+[26-Jan-2025 04:18:35 UTC] PHP Fatal error:  Trait "Carbon\Traits\ObjectInitialisation" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Creator.php on line 36
+[26-Jan-2025 04:18:47 UTC] PHP Fatal error:  Trait "Carbon\Traits\Cast" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Mutability.php on line 22
+[26-Jan-2025 04:18:50 UTC] PHP Fatal error:  Trait "Carbon\Traits\Localization" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Options.php on line 27
+[26-Jan-2025 04:31:42 UTC] PHP Fatal error:  Trait "Carbon\Traits\IntervalRounding" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Rounding.php on line 27
+[26-Jan-2025 04:31:43 UTC] PHP Fatal error:  Trait "Carbon\Traits\Mixin" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Macro.php on line 19
+[26-Jan-2025 04:32:00 UTC] PHP Fatal error:  Trait "Carbon\Traits\Boundaries" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[01-Apr-2025 03:44:53 UTC] PHP Fatal error:  Trait "Carbon\Traits\ObjectInitialisation" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Serialization.php on line 35
+[01-Apr-2025 03:44:53 UTC] PHP Fatal error:  Trait "Carbon\Traits\IntervalRounding" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Rounding.php on line 27
+[01-Apr-2025 03:44:53 UTC] PHP Fatal error:  Trait "Carbon\Traits\ObjectInitialisation" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Creator.php on line 36
+[01-Apr-2025 03:45:19 UTC] PHP Fatal error:  Trait "Carbon\Traits\Cast" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Mutability.php on line 22
+[01-Apr-2025 03:45:19 UTC] PHP Fatal error:  Trait "Carbon\Traits\Localization" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Options.php on line 27
+[01-Apr-2025 03:45:24 UTC] PHP Fatal error:  Trait "Carbon\Traits\Boundaries" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Date.php on line 527
+[01-Apr-2025 03:45:33 UTC] PHP Fatal error:  Trait "Carbon\Traits\Mixin" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Traits/Macro.php on line 19

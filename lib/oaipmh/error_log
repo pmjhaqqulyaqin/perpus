@@ -1,0 +1,25 @@
+[01-Apr-2025 03:29:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SHOW_QUERY_ERROR" in /home/mandalo1/public_html/perpus/lib/oaipmh/identify.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/identify.php on line 12
+[01-Apr-2025 03:29:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_message() in /home/mandalo1/public_html/perpus/lib/oaipmh/listrecords.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/listrecords.php on line 12
+[01-Apr-2025 03:30:00 UTC] PHP Fatal error:  Uncaught Error: Class "ANDS_Response_XML" not found in /home/mandalo1/public_html/perpus/lib/oaipmh/listmetadataformats.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/listmetadataformats.php on line 52
+[01-Apr-2025 03:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_message() in /home/mandalo1/public_html/perpus/lib/oaipmh/getrecord.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/getrecord.php on line 13
+[01-Apr-2025 03:30:02 UTC] PHP Warning:  Undefined variable $SETS in /home/mandalo1/public_html/perpus/lib/oaipmh/listsets.php on line 10
+[01-Apr-2025 03:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function oai_error() in /home/mandalo1/public_html/perpus/lib/oaipmh/listsets.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/listsets.php on line 26
+[01-Apr-2025 03:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Url" not found in /home/mandalo1/public_html/perpus/lib/oaipmh/oaidp-config.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/oaipmh/oaidp-config.php on line 46

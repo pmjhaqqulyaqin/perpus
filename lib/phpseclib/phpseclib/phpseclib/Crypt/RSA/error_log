@@ -1,0 +1,8 @@
+[01-Apr-2025 03:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[01-Apr-2025 03:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26

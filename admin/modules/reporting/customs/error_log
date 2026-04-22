@@ -1,0 +1,10 @@
+[02-Aug-2024 09:53:28 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'vc.room_code' in 'on clause' in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/admin/modules/reporting/customs/visitor_list.php(197): simbio_datagrid->createDataGrid(Object(mysqli), 'visitor_count A...', 20)
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[01-Apr-2025 03:51:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INDEX_AUTH" in /home/mandalo1/public_html/perpus/admin/modules/reporting/customs/customs_report_list.inc.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/reporting/customs/customs_report_list.inc.php on line 22

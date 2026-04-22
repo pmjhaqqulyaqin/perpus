@@ -1,0 +1,4 @@
+[01-Apr-2025 03:12:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 24

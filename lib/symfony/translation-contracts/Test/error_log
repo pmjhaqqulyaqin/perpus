@@ -1,0 +1,4 @@
+[01-Apr-2025 03:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation-contracts/Test/TranslatorTest.php on line 31

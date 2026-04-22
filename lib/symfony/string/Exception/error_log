@@ -1,0 +1,8 @@
+[01-Apr-2025 03:31:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/string/Exception/RuntimeException.php on line 14
+[01-Apr-2025 03:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/string/Exception/InvalidArgumentException.php on line 14

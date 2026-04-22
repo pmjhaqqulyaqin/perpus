@@ -1,0 +1,16 @@
+[01-Apr-2025 03:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/DateTimeType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/DateTimeType.php on line 12
+[01-Apr-2025 03:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/CarbonImmutableType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/CarbonImmutableType.php on line 16
+[01-Apr-2025 03:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/DateTimeImmutableType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/DateTimeImmutableType.php on line 12
+[01-Apr-2025 03:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/CarbonType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Doctrine/CarbonType.php on line 16

@@ -1,0 +1,12 @@
+[01-Apr-2025 03:18:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Comment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Comment.php on line 13
+[01-Apr-2025 03:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\DefinedName" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedFormula.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedFormula.php on line 7
+[01-Apr-2025 03:18:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\DefinedName" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedRange.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/NamedRange.php on line 8

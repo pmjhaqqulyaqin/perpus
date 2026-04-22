@@ -1,0 +1,4 @@
+[01-Apr-2025 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/ServerDumpCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Command/ServerDumpCommand.php on line 37

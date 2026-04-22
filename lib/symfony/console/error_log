@@ -1,0 +1,8 @@
+[01-Apr-2025 03:30:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Application.php on line 73
+[01-Apr-2025 03:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/SingleCommandApplication.php on line 21

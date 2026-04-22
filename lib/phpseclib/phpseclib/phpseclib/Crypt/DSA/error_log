@@ -1,0 +1,12 @@
+[01-Apr-2025 03:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[01-Apr-2025 03:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[01-Apr-2025 03:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21

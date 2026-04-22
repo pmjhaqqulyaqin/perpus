@@ -1,0 +1,32 @@
+[01-Apr-2025 03:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ErrorCorrectionLevelTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ErrorCorrectionLevelTest.php on line 10
+[01-Apr-2025 03:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitUtilsTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitUtilsTest.php on line 9
+[01-Apr-2025 03:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/FormatInformationTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/FormatInformationTest.php on line 10
+[01-Apr-2025 03:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ModeTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ModeTest.php on line 9
+[01-Apr-2025 03:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitArrayTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitArrayTest.php on line 10
+[01-Apr-2025 03:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitMatrixTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/BitMatrixTest.php on line 10
+[01-Apr-2025 03:12:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/VersionTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/VersionTest.php on line 10
+[01-Apr-2025 03:12:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ReedSolomonCodecTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Common/ReedSolomonCodecTest.php on line 10

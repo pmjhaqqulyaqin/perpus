@@ -1,0 +1,8 @@
+[01-Apr-2025 03:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/lazy/Carbon/PHPStan/MacroStrongType.php on line 17
+[01-Apr-2025 03:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\PHPStan\AbstractMacro" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/lazy/Carbon/PHPStan/MacroWeakType.php on line 17

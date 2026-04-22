@@ -1,0 +1,28 @@
+[01-Apr-2025 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "ParagonIE\ConstantTime\EncoderInterface" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base32.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base32.php on line 38
+[01-Apr-2025 03:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE\ConstantTime\Base64" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64DotSlash.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64DotSlash.php on line 34
+[01-Apr-2025 03:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE\ConstantTime\Base32" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base32Hex.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base32Hex.php on line 34
+[01-Apr-2025 03:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE\ConstantTime\Base64" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64UrlSafe.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64UrlSafe.php on line 34
+[01-Apr-2025 03:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE\ConstantTime\Base64" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64DotSlashOrdered.php on line 34
+[01-Apr-2025 03:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "ParagonIE\ConstantTime\EncoderInterface" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Hex.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Hex.php on line 35
+[01-Apr-2025 03:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "ParagonIE\ConstantTime\EncoderInterface" not found in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/paragonie/constant_time_encoding/src/Base64.php on line 38

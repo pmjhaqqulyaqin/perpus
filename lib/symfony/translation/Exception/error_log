@@ -1,0 +1,40 @@
+[01-Apr-2025 03:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/LogicException.php on line 19
+[01-Apr-2025 03:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/InvalidArgumentException.php on line 19
+[01-Apr-2025 03:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/IncompleteDsnException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/IncompleteDsnException.php on line 14
+[01-Apr-2025 03:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\LogicException" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/UnsupportedSchemeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/UnsupportedSchemeException.php on line 17
+[01-Apr-2025 03:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\IncompleteDsnException" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/MissingRequiredOptionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/MissingRequiredOptionException.php on line 17
+[01-Apr-2025 03:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/NotFoundResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/NotFoundResourceException.php on line 19
+[01-Apr-2025 03:30:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\RuntimeException" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/ProviderException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/ProviderException.php on line 19
+[01-Apr-2025 03:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/InvalidResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/InvalidResourceException.php on line 19
+[01-Apr-2025 03:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/ProviderExceptionInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/ProviderExceptionInterface.php on line 17
+[01-Apr-2025 03:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Exception/RuntimeException.php on line 19

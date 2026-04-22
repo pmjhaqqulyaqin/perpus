@@ -1,0 +1,28 @@
+[26-Jan-2025 04:18:46 UTC] PHP Fatal error:  Trait "Carbon\Traits\Date" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/CarbonImmutable.php on line 510
+[26-Jan-2025 04:31:43 UTC] PHP Fatal error:  Trait "Carbon\Traits\IntervalRounding" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/CarbonInterval.php on line 183
+[26-Jan-2025 04:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Translator" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/TranslatorImmutable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/TranslatorImmutable.php on line 18
+[26-Jan-2025 04:31:45 UTC] PHP Fatal error:  Trait "Carbon\Traits\Date" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Carbon.php on line 510
+[01-Apr-2025 03:30:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "Symfony\Component\Translation\Translator" does not exist in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Translator.php:18
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Translator.php(18): ReflectionMethod->__construct('Symfony\\Compone...', 'trans')
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Translator.php on line 18
+[01-Apr-2025 03:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Factory" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/FactoryImmutable.php:240
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/FactoryImmutable.php on line 240
+[01-Apr-2025 03:31:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Translator" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/AbstractTranslator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/AbstractTranslator.php on line 21
+[01-Apr-2025 03:31:04 UTC] PHP Fatal error:  Trait "Carbon\Traits\IntervalRounding" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/CarbonPeriod.php on line 169
+[01-Apr-2025 03:44:55 UTC] PHP Fatal error:  Trait "Carbon\Traits\IntervalRounding" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/CarbonInterval.php on line 183
+[01-Apr-2025 03:44:56 UTC] PHP Fatal error:  Trait "Carbon\Traits\Date" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Carbon.php on line 510
+[01-Apr-2025 03:45:04 UTC] PHP Fatal error:  Trait "Carbon\Traits\Date" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/CarbonImmutable.php on line 510
+[01-Apr-2025 03:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Translator" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/TranslatorImmutable.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/TranslatorImmutable.php on line 18

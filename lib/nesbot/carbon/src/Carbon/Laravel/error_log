@@ -1,0 +1,4 @@
+[01-Apr-2025 03:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 25

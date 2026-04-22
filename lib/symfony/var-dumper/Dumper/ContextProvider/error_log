@@ -1,0 +1,12 @@
+[01-Apr-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[01-Apr-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[01-Apr-2025 03:30:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 26

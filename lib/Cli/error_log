@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Command.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Command.php on line 20

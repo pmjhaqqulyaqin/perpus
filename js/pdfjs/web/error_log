@@ -1,0 +1,8 @@
+[26-Jan-2025 04:41:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "JWB" in /home/mandalo1/public_html/perpus/js/pdfjs/web/viewer.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/js/pdfjs/web/viewer.php on line 32
+[01-Apr-2025 03:50:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "JWB" in /home/mandalo1/public_html/perpus/js/pdfjs/web/viewer.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/js/pdfjs/web/viewer.php on line 32

@@ -1,0 +1,8 @@
+[01-Apr-2025 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34
+[01-Apr-2025 03:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 33

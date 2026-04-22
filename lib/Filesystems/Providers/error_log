@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Filesystems\Providers\Contract" not found in /home/mandalo1/public_html/perpus/lib/Filesystems/Providers/Local.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Filesystems/Providers/Local.php on line 20

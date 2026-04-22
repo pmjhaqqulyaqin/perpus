@@ -1,0 +1,4 @@
+[01-Apr-2025 03:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Captcha\Providers\Contract" not found in /home/mandalo1/public_html/perpus/lib/Captcha/Providers/ReCaptcha.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Captcha/Providers/ReCaptcha.php on line 18

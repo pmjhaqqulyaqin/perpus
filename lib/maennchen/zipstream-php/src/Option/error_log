@@ -1,0 +1,8 @@
+[01-Apr-2025 02:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "MyCLabs\Enum\Enum" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Option/Method.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Option/Method.php on line 15
+[01-Apr-2025 02:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "MyCLabs\Enum\Enum" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Option/Version.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Option/Version.php on line 17

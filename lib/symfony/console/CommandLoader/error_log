@@ -1,0 +1,8 @@
+[01-Apr-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[01-Apr-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23

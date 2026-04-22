@@ -1,0 +1,12 @@
+[01-Apr-2025 03:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Module\ModuleInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/DotsModule.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/DotsModule.php on line 13
+[01-Apr-2025 03:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Module\ModuleInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/RoundnessModule.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/RoundnessModule.php on line 14
+[01-Apr-2025 03:12:43 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Module\ModuleInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/SquareModule.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Module/SquareModule.php on line 13

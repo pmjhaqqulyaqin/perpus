@@ -1,0 +1,161 @@
+[19-Feb-2024 16:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://pustaka-digital.kemdikbud.go.id/images/docs/4d387ca3f447f1d21c29a4ebe5fa8901.jpg` resulted in a `404 Not Found` response:
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', 'https://pustaka...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('https://pustaka...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(162): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(85): SLiMS\Http\Client::__callStatic('get', Array)
+#14 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(390): remoteFileExists('https://pustaka...')
+#15 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[19-Feb-2024 16:33:27 Asia/Jakarta] PHP Warning:  Array to string conversion in /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php on line 461
+[19-Feb-2024 16:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://pustaka.kemdikbud.go.id/libdikbud/images/docs/cover_dunia_mikro_kehidupan_dalam_setetes_air_laut.jpg` resulted in a `404 Not Found` response:
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', 'https://pustaka...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('https://pustaka...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(162): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(85): SLiMS\Http\Client::__callStatic('get', Array)
+#14 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(390): remoteFileExists('https://pustaka...')
+#15 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[19-Feb-2024 16:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://pustaka.kemdikbud.go.id/libdikbud/images/docs/Profil_sekolah_indonesia_%28singapura%29_ltd.jpeg.jpeg` resulted in a `404 Not Found` response:
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', 'https://pustaka...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('https://pustaka...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(162): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(85): SLiMS\Http\Client::__callStatic('get', Array)
+#14 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(390): remoteFileExists('https://pustaka...')
+#15 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[19-Feb-2024 16:34:02 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://ruli.sman1purworejo.sch.id/images/docs/cover.jpg.jpg` resulted in a `404 Not Found` response:
+<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr> (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', 'https://ruli.sm...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('https://ruli.sm...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(162): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(85): SLiMS\Http\Client::__callStatic('get', Array)
+#14 /home/mandalo1/public_html/perpus/admin/modules/bibliography/p2p.php(390): remoteFileExists('https://ruli.sm...')
+#15 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[19-Feb-2024 16:35:07 Asia/Jakarta] PHP Warning:  SimpleXMLElement::__construct(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php on line 203
+[19-Feb-2024 16:35:07 Asia/Jakarta] PHP Warning:  SimpleXMLElement::__construct(http://z3950.loc.gov:7090/voyager?version=1.1&amp;operation=searchRetrieve&amp;query=%22biologi%22&amp;startRecord=1&amp;maximumRecords=20&amp;recordSchema=mods): Failed to open stream: no suitable wrapper could be found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php on line 203
+[19-Feb-2024 16:35:07 Asia/Jakarta] PHP Warning:  SimpleXMLElement::__construct(): I/O warning : failed to load external entity &quot;http://z3950.loc.gov:7090/voyager?version=1.1&amp;operation=searchRetrieve&amp;query=%22biologi%22&amp;startRecord=1&amp;maximumRecords=20&amp;recordSchema=mods&quot; in /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php on line 203
+[19-Feb-2024 16:35:07 Asia/Jakarta] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php:203
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php(203): SimpleXMLElement->__construct('http://z3950.lo...', 8192, true)
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/z3950sru.php on line 203
+[15-May-2024 09:36:41 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[08-Sep-2024 18:33:27 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php:284
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php(240): File_MARC->_decode('<?php\nnamespace...')
+#1 /home/mandalo1/public_html/perpus/admin/modules/bibliography/marcimport.php(118): File_MARC->next()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php on line 284
+[08-Sep-2024 18:36:02 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:46:43 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:46:43 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:46:43 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:48:34 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:48:34 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:48:34 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[08-Sep-2024 18:48:34 Asia/Jakarta] PHP Warning:  Undefined array key "mainForm" in /home/mandalo1/public_html/perpus/simbio2/simbio_GUI/form_maker/simbio_form_maker.inc.php on line 108
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[28-Sep-2024 05:44:12 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/public_html/perpus/admin/modules/bibliography/printed_card.php on line 45
+[26-Jan-2025 05:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/bibliography/submenu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/submenu.php on line 24
+[26-Jan-2025 12:23:36 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php on line 1
+[26-Jan-2025 12:23:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (admin_template!=NULL OR admin_template !='')' at line 1 in /home/mandalo1/public_html/perpus/lib/utility.inc.php:651
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/utility.inc.php(651): mysqli->query('SELECT admin_te...')
+#1 /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php(1): utility::loadUserTemplate(Object(mysqli), NULL)
+#2 /home/mandalo1/public_html/perpus/admin/modules/bibliography/pop_print_settings.php(47): require('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/utility.inc.php on line 651
+[01-Apr-2025 10:50:58 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php on line 1
+[01-Apr-2025 10:50:58 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (admin_template!=NULL OR admin_template !='')' at line 1 in /home/mandalo1/public_html/perpus/lib/utility.inc.php:651
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/utility.inc.php(651): mysqli->query('SELECT admin_te...')
+#1 /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php(1): utility::loadUserTemplate(Object(mysqli), NULL)
+#2 /home/mandalo1/public_html/perpus/admin/modules/bibliography/pop_print_settings.php(47): require('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/utility.inc.php on line 651
+[01-Apr-2025 03:51:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INDEX_AUTH" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/custom_fields.inc.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/custom_fields.inc.php on line 26
+[01-Apr-2025 03:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/bibliography/submenu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/submenu.php on line 24
+[10-Jan-2026 08:34:29 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/perpus/admin/modules/bibliography/printed_card.php on line 45
+[10-Jan-2026 08:34:29 Asia/Jakarta] PHP Warning:  Undefined array key 1 in /home/mandalo1/perpus/admin/modules/bibliography/printed_card.php on line 45

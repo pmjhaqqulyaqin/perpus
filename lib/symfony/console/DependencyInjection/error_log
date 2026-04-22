@@ -1,0 +1,4 @@
+[01-Apr-2025 03:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/DependencyInjection/AddConsoleCommandPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/DependencyInjection/AddConsoleCommandPass.php on line 30

@@ -1,0 +1,4 @@
+[01-Apr-2025 03:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 36

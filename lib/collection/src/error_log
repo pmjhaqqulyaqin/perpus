@@ -1,0 +1,44 @@
+[01-Apr-2025 03:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/mandalo1/public_html/perpus/lib/collection/src/CollectionInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/CollectionInterface.php on line 26
+[01-Apr-2025 03:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/mandalo1/public_html/perpus/lib/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/Set.php on line 41
+[01-Apr-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/mandalo1/public_html/perpus/lib/collection/src/GenericArray.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/GenericArray.php on line 22
+[01-Apr-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/mandalo1/public_html/perpus/lib/collection/src/DoubleEndedQueueInterface.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/DoubleEndedQueueInterface.php on line 165
+[01-Apr-2025 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/mandalo1/public_html/perpus/lib/collection/src/Queue.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/Queue.php on line 30
+[01-Apr-2025 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractCollection.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractCollection.php on line 49
+[01-Apr-2025 03:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractArray.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractArray.php on line 30
+[01-Apr-2025 03:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/mandalo1/public_html/perpus/lib/collection/src/QueueInterface.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/QueueInterface.php on line 99
+[01-Apr-2025 03:30:39 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/mandalo1/public_html/perpus/lib/collection/src/DoubleEndedQueue.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/DoubleEndedQueue.php on line 28
+[01-Apr-2025 03:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractSet.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/AbstractSet.php on line 25
+[01-Apr-2025 03:30:45 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/mandalo1/public_html/perpus/lib/collection/src/Collection.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/collection/src/Collection.php on line 76

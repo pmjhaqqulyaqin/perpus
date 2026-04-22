@@ -1,0 +1,80 @@
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[26-Jan-2025 05:31:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURRENT_TEMPLATE_DIR" in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 17
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[01-Apr-2025 03:51:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[01-Apr-2025 03:51:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURRENT_TEMPLATE_DIR" in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 17
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURRENT_TEMPLATE_DIR" in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 17
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURRENT_TEMPLATE_DIR" in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 17
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 8
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 12
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 14
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 15
+[05-Dec-2025 02:52:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "CURRENT_TEMPLATE_DIR" in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/assets/js/vegas.js.php on line 17

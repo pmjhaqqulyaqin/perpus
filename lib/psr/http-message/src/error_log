@@ -1,0 +1,24 @@
+[26-Jan-2025 04:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ServerRequestInterface.php on line 43
+[26-Jan-2025 04:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ResponseInterface.php on line 20
+[26-Jan-2025 04:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/RequestInterface.php on line 24
+[01-Apr-2025 03:50:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ServerRequestInterface.php on line 43
+[01-Apr-2025 03:50:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/ResponseInterface.php on line 20
+[01-Apr-2025 03:50:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-message/src/RequestInterface.php on line 24

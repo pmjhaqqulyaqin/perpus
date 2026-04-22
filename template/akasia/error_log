@@ -1,0 +1,47 @@
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 32
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $image in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 6
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 11
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $title in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 12
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 13
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 13
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 16
+[26-Jan-2025 06:23:54 UTC] PHP Warning:  Undefined variable $notes in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 23
+[26-Jan-2025 06:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 30
+[01-Apr-2025 03:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia/custom_frontpage_record.inc.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia/custom_frontpage_record.inc.php on line 6
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $image in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 6
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 11
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $title in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 12
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 13
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 13
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 16
+[01-Apr-2025 03:51:54 UTC] PHP Warning:  Undefined variable $notes in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 23
+[01-Apr-2025 03:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia/detail_template.php on line 30
+[01-Apr-2025 03:52:03 UTC] PHP Warning:  Undefined array key "theme" in /home/mandalo1/public_html/perpus/template/akasia/tinfo.inc.php on line 24
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 27
+[01-Apr-2025 03:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia/visitor_template.php on line 32

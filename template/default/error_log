@@ -1,0 +1,54 @@
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/visitor_template.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 55
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 7
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Undefined variable $image in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 15
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 19
+[26-Jan-2025 06:23:49 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24
+[26-Jan-2025 06:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/visitor_template.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 55
+[26-Jan-2025 06:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/detail_template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24
+[26-Jan-2025 06:24:26 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 7
+[26-Jan-2025 06:24:26 UTC] PHP Warning:  Undefined variable $image in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 15
+[26-Jan-2025 06:24:26 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 19
+[26-Jan-2025 06:24:26 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24
+[26-Jan-2025 06:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/detail_template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24
+[01-Apr-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/custom_frontpage_record.inc.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/custom_frontpage_record.inc.php on line 6
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 51
+[01-Apr-2025 03:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/visitor_template.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/visitor_template.php on line 55
+[01-Apr-2025 03:51:36 UTC] PHP Warning:  Undefined array key "theme" in /home/mandalo1/public_html/perpus/template/default/tinfo.inc.php on line 36
+[01-Apr-2025 03:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/tinfo.inc.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/tinfo.inc.php on line 39
+[01-Apr-2025 03:51:37 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 7
+[01-Apr-2025 03:51:37 UTC] PHP Warning:  Undefined variable $image in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 15
+[01-Apr-2025 03:51:37 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 19
+[01-Apr-2025 03:51:37 UTC] PHP Warning:  Undefined variable $biblio_id in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24
+[01-Apr-2025 03:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/detail_template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/detail_template.php on line 24

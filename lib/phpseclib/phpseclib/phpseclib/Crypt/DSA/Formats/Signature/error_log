@@ -1,0 +1,4 @@
+[01-Apr-2025 03:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/DSA/Formats/Signature/Raw.php on line 23

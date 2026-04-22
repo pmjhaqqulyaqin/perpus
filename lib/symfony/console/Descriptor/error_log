@@ -1,0 +1,20 @@
+[01-Apr-2025 03:30:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Descriptor\DescriptorInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/Descriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/Descriptor.php on line 27
+[01-Apr-2025 03:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/JsonDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/JsonDescriptor.php on line 27
+[01-Apr-2025 03:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/MarkdownDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/MarkdownDescriptor.php on line 29
+[01-Apr-2025 03:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/TextDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/TextDescriptor.php on line 29
+[01-Apr-2025 03:30:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/XmlDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Descriptor/XmlDescriptor.php on line 27

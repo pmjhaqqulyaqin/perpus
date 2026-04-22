@@ -1,0 +1,131 @@
+[01-Apr-2025 02:52:57 UTC] PHP Warning:  require_once(Zend/Validate/Interface.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Abstract.php on line 25
+[01-Apr-2025 02:52:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Interface.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Abstract.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Abstract.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alnum.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alnum.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alnum.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Iban.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Iban.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Iban.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ip.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Int.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ip.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ip.php on line 25
+[01-Apr-2025 02:52:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Int.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Int.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/LessThan.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/LessThan.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/LessThan.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/PostCode.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/PostCode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/PostCode.php on line 25
+[01-Apr-2025 02:52:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Digits.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Digits.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Digits.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Float.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Float.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Float.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Callback.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Callback.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Callback.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/CreditCard.php on line 25
+[01-Apr-2025 02:53:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/CreditCard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/CreditCard.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Warning:  require_once(Zend/Exception.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Exception.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/GreaterThan.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Exception.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Exception.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Regex.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/GreaterThan.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/GreaterThan.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Regex.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Regex.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/NotEmpty.php on line 25
+[01-Apr-2025 02:53:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/NotEmpty.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/NotEmpty.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/EmailAddress.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/EmailAddress.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/EmailAddress.php on line 25
+[01-Apr-2025 02:53:09 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Isbn.php on line 171
+[01-Apr-2025 02:53:09 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Identical.php on line 23
+[01-Apr-2025 02:53:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Identical.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Identical.php on line 23
+[01-Apr-2025 02:53:09 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/StringLength.php on line 25
+[01-Apr-2025 02:53:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/StringLength.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/StringLength.php on line 25
+[01-Apr-2025 02:53:09 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Date.php on line 25
+[01-Apr-2025 02:53:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Date.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Date.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hex.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hex.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hex.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Between.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Between.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Between.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hostname.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hostname.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Hostname.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alpha.php on line 25
+[01-Apr-2025 02:53:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alpha.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Alpha.php on line 25
+[01-Apr-2025 02:53:11 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ccnum.php on line 25
+[01-Apr-2025 02:53:11 UTC] PHP Warning:  require_once(Zend/Validate/Abstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/InArray.php on line 25
+[01-Apr-2025 02:53:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ccnum.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Ccnum.php on line 25
+[01-Apr-2025 02:53:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Abstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/InArray.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/InArray.php on line 25

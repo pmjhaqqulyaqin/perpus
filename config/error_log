@@ -1,0 +1,8 @@
+[01-Apr-2025 02:52:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SB" in /home/mandalo1/public_html/perpus/config/filesystem.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/config/filesystem.php on line 22
+[01-Apr-2025 02:52:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SB" in /home/mandalo1/public_html/perpus/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/config/cache.php on line 18

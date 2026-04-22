@@ -1,0 +1,8 @@
+[26-Jan-2025 04:32:00 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[01-Apr-2025 03:45:36 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20

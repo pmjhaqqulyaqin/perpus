@@ -1,0 +1,4 @@
+[01-Apr-2025 03:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Logger/ConsoleLogger.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Logger/ConsoleLogger.php on line 27

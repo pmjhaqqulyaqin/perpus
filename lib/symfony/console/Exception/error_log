@@ -1,0 +1,28 @@
+[01-Apr-2025 03:30:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/InvalidOptionException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/InvalidOptionException.php on line 19
+[01-Apr-2025 03:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\RuntimeException" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/MissingInputException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/MissingInputException.php on line 19
+[01-Apr-2025 03:30:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/RuntimeException.php on line 17
+[01-Apr-2025 03:30:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/InvalidArgumentException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/InvalidArgumentException.php on line 17
+[01-Apr-2025 03:30:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/CommandNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/CommandNotFoundException.php on line 19
+[01-Apr-2025 03:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/LogicException.php on line 17
+[01-Apr-2025 03:31:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Exception\CommandNotFoundException" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/NamespaceNotFoundException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Exception/NamespaceNotFoundException.php on line 19

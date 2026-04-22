@@ -1,0 +1,44 @@
+[01-Apr-2025 03:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\Stub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/DsPairStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/DsPairStub.php on line 19
+[01-Apr-2025 03:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\Stub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ConstStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ConstStub.php on line 21
+[01-Apr-2025 03:30:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\ConstStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ClassStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ClassStub.php on line 21
+[01-Apr-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\ConstStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/LinkStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/LinkStub.php on line 19
+[01-Apr-2025 03:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\CutStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/CutArrayStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/CutArrayStub.php on line 19
+[01-Apr-2025 03:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\Stub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/TraceStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/TraceStub.php on line 21
+[01-Apr-2025 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\EnumStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/FrameStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/FrameStub.php on line 19
+[01-Apr-2025 03:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\Stub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/EnumStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/EnumStub.php on line 21
+[01-Apr-2025 03:31:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\Stub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/CutStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/CutStub.php on line 21
+[01-Apr-2025 03:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\EnumStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ArgsStub.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ArgsStub.php on line 21
+[01-Apr-2025 03:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Caster\ConstStub" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ImgStub.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Caster/ImgStub.php on line 17

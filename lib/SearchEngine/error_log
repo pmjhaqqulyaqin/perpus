@@ -1,0 +1,9 @@
+[01-Apr-2025 03:18:59 UTC] PHP Fatal error:  Trait "SLiMS\SearchEngine\SearchFilter" not found in /home/mandalo1/public_html/perpus/lib/SearchEngine/Contract.php on line 26
+[01-Apr-2025 03:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\SearchEngine\Contract" not found in /home/mandalo1/public_html/perpus/lib/SearchEngine/DefaultEngine.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/SearchEngine/DefaultEngine.php on line 29
+[01-Apr-2025 03:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\SearchEngine\Contract" not found in /home/mandalo1/public_html/perpus/lib/SearchEngine/SearchBiblioEngine.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/SearchEngine/SearchBiblioEngine.php on line 28

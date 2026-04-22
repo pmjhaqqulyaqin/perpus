@@ -1,0 +1,41 @@
+[01-Apr-2025 03:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV1.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV1.php on line 38
+[01-Apr-2025 03:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV4.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV4.php on line 30
+[01-Apr-2025 03:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Fields\FieldsInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/FieldsInterface.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/FieldsInterface.php on line 40
+[01-Apr-2025 03:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV2.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV2.php on line 48
+[01-Apr-2025 03:25:08 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Rfc4122\NilTrait" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/Fields.php on line 41
+[01-Apr-2025 03:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidInterface.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidInterface.php on line 27
+[01-Apr-2025 03:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV3.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV3.php on line 30
+[01-Apr-2025 03:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Validator\ValidatorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/Validator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/Validator.php on line 28
+[01-Apr-2025 03:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidBuilder.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidBuilder.php on line 33
+[01-Apr-2025 03:25:10 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/NilUuid.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/NilUuid.php on line 25
+[01-Apr-2025 03:25:10 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV5.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Rfc4122/UuidV5.php on line 30

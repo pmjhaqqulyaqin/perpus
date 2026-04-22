@@ -1,0 +1,13 @@
+[01-Apr-2025 03:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/Uuid.php on line 27
+[01-Apr-2025 03:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/UuidV6.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/UuidV6.php on line 46
+[01-Apr-2025 03:25:29 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/Fields.php on line 45
+[01-Apr-2025 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Nonstandard/UuidBuilder.php on line 30

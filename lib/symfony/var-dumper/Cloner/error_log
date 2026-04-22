@@ -1,0 +1,8 @@
+[01-Apr-2025 03:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[01-Apr-2025 03:30:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/var-dumper/Cloner/AbstractCloner.php on line 22

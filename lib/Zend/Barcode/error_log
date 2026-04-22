@@ -1,0 +1,5 @@
+[01-Apr-2025 02:53:18 UTC] PHP Warning:  require_once(Zend/Exception.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Exception.php on line 24
+[01-Apr-2025 02:53:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Exception.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Exception.php on line 24

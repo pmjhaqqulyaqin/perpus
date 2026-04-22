@@ -1,0 +1,5 @@
+[01-Apr-2025 03:51:12 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/admin/admin_template/nightmode/index_template.inc.php on line 4
+[01-Apr-2025 03:51:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SWB" in /home/mandalo1/public_html/perpus/admin/admin_template/nightmode/index_template.inc.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/admin_template/nightmode/index_template.inc.php on line 14

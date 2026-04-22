@@ -1,0 +1,16 @@
+[01-Apr-2025 03:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DASPRiD\Enum\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/MismatchException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/MismatchException.php on line 8
+[01-Apr-2025 03:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DASPRiD\Enum\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/SerializeNotSupportedException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/SerializeNotSupportedException.php on line 8
+[01-Apr-2025 03:29:56 UTC] PHP Fatal error:  Uncaught Error: Interface "DASPRiD\Enum\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/CloneNotSupportedException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/CloneNotSupportedException.php on line 8
+[01-Apr-2025 03:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "DASPRiD\Enum\Exception\ExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/IllegalArgumentException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/dasprid/enum/src/Exception/IllegalArgumentException.php on line 8

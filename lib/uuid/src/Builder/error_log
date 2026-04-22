@@ -1,0 +1,16 @@
+[01-Apr-2025 03:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/BuilderCollection.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/BuilderCollection.php on line 37
+[01-Apr-2025 03:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Rfc4122\UuidBuilder" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/DefaultUuidBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/DefaultUuidBuilder.php on line 24
+[01-Apr-2025 03:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/FallbackBuilder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/FallbackBuilder.php on line 28
+[01-Apr-2025 03:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/DegradedUuidBuilder.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Builder/DegradedUuidBuilder.php on line 31

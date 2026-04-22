@@ -1,0 +1,9 @@
+[01-Apr-2025 03:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Guid/Guid.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Guid/Guid.php on line 51
+[01-Apr-2025 03:25:04 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Rfc4122\NilTrait" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Guid/Fields.php on line 45
+[01-Apr-2025 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Guid/GuidBuilder.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Guid/GuidBuilder.php on line 32

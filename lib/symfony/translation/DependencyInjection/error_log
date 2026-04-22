@@ -1,0 +1,16 @@
+[01-Apr-2025 03:30:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[01-Apr-2025 03:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslatorPathsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 23
+[01-Apr-2025 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[01-Apr-2025 03:30:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/DependencyInjection/TranslatorPass.php on line 19

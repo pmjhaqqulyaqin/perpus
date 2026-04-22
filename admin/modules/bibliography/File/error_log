@@ -1,0 +1,24 @@
+[26-Jan-2025 05:23:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCXML.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCXML.php on line 42
+[26-Jan-2025 05:23:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php on line 43
+[26-Jan-2025 05:23:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCBASE.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCBASE.php on line 41
+[01-Apr-2025 03:51:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCXML.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCXML.php on line 42
+[01-Apr-2025 03:51:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCBASE.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARCBASE.php on line 41
+[01-Apr-2025 03:51:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC.php on line 43

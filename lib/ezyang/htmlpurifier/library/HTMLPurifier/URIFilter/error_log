@@ -1,0 +1,28 @@
+[01-Apr-2025 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/HostBlacklist.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/HostBlacklist.php on line 7
+[01-Apr-2025 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/MakeAbsolute.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/MakeAbsolute.php on line 5
+[01-Apr-2025 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter_DisableExternal" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableExternalResources.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableExternalResources.php on line 3
+[01-Apr-2025 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableResources.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableResources.php on line 3
+[01-Apr-2025 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/Munge.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/Munge.php on line 3
+[01-Apr-2025 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableExternal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/DisableExternal.php on line 3
+[01-Apr-2025 03:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_URIFilter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/SafeIframe.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/URIFilter/SafeIframe.php on line 9

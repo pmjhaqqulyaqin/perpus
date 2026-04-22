@@ -1,0 +1,16 @@
+[01-Apr-2025 03:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Eye\EyeInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/SquareEye.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/SquareEye.php on line 11
+[01-Apr-2025 03:12:37 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Eye\EyeInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/SimpleCircleEye.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/SimpleCircleEye.php on line 11
+[01-Apr-2025 03:12:37 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Eye\EyeInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/ModuleEye.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/ModuleEye.php on line 13
+[01-Apr-2025 03:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Eye\EyeInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/CompositeEye.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Eye/CompositeEye.php on line 11

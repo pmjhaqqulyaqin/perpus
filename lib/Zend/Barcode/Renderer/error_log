@@ -1,0 +1,20 @@
+[01-Apr-2025 02:53:12 UTC] PHP Warning:  require_once(Zend/Barcode/Renderer/RendererAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Pdf.php on line 24
+[01-Apr-2025 02:53:12 UTC] PHP Warning:  require_once(Zend/Barcode/Renderer/RendererAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Svg.php on line 24
+[01-Apr-2025 02:53:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Renderer/RendererAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Svg.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Svg.php on line 24
+[01-Apr-2025 02:53:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Renderer/RendererAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Pdf.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Pdf.php on line 24
+[01-Apr-2025 02:53:13 UTC] PHP Warning:  require_once(Zend/Barcode/Exception.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Exception.php on line 23
+[01-Apr-2025 02:53:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Exception.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Exception.php on line 23
+[01-Apr-2025 02:53:13 UTC] PHP Warning:  require_once(Zend/Barcode/Renderer/RendererAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Image.php on line 24
+[01-Apr-2025 02:53:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Renderer/RendererAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Image.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Renderer/Image.php on line 24

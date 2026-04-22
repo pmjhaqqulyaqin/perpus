@@ -1,0 +1,20 @@
+[01-Apr-2025 03:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Codec\StringCodec" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/OrderedTimeCodec.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/OrderedTimeCodec.php on line 46
+[01-Apr-2025 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Codec\StringCodec" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/TimestampLastCombCodec.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/TimestampLastCombCodec.php on line 49
+[01-Apr-2025 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Codec\StringCodec" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/GuidStringCodec.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/GuidStringCodec.php on line 30
+[01-Apr-2025 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Codec\CodecInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/StringCodec.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/StringCodec.php on line 37
+[01-Apr-2025 03:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Codec\StringCodec" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/TimestampFirstCombCodec.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Codec/TimestampFirstCombCodec.php on line 51

@@ -1,0 +1,8 @@
+[01-Apr-2025 02:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Migration\Migration" not found in /home/mandalo1/public_html/perpus/plugins/read_counter/migration/2_AddUIDColumn.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/read_counter/migration/2_AddUIDColumn.php on line 26
+[01-Apr-2025 02:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Migration\Migration" not found in /home/mandalo1/public_html/perpus/plugins/read_counter/migration/1_CreateReadCounterTable.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/read_counter/migration/1_CreateReadCounterTable.php on line 26

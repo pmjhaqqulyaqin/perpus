@@ -1,0 +1,8 @@
+[01-Apr-2025 03:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\BCMath\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath/Reductions/EvalBarrett.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath/Reductions/EvalBarrett.php on line 24
+[01-Apr-2025 03:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\BCMath\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath/Reductions/Barrett.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath/Reductions/Barrett.php on line 23

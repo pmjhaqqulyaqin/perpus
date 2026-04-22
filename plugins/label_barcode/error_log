@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Plugins" not found in /home/mandalo1/public_html/perpus/plugins/label_barcode/label.plugin.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/label.plugin.php on line 12

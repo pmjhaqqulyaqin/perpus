@@ -1,0 +1,20 @@
+[01-Apr-2025 03:25:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Time.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Time.php on line 35
+[01-Apr-2025 03:25:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\NumberInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Decimal.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Decimal.php on line 35
+[01-Apr-2025 03:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/NumberInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/NumberInterface.php on line 22
+[01-Apr-2025 03:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Hexadecimal.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Hexadecimal.php on line 35
+[01-Apr-2025 03:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\NumberInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Integer.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Type/Integer.php on line 38

@@ -1,0 +1,4 @@
+[01-Apr-2025 03:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/DataCollector/TranslationDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/DataCollector/TranslationDataCollector.php on line 26

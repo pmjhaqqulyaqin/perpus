@@ -1,0 +1,29 @@
+[01-Apr-2025 03:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Engineering\ConvertBase" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertOctal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertOctal.php on line 8
+[01-Apr-2025 03:13:24 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertBase.php on line 10
+[01-Apr-2025 03:13:24 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/Erf.php on line 9
+[01-Apr-2025 03:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Engineering\ConvertBase" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertBinary.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertBinary.php on line 8
+[01-Apr-2025 03:13:24 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/BesselJ.php on line 9
+[01-Apr-2025 03:13:25 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ErfC.php on line 9
+[01-Apr-2025 03:13:25 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/Complex.php on line 11
+[01-Apr-2025 03:13:25 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/BesselI.php on line 9
+[01-Apr-2025 03:13:25 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/BitWise.php on line 10
+[01-Apr-2025 03:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Engineering\ConvertBase" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertHex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertHex.php on line 8
+[01-Apr-2025 03:13:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ComplexOperations.php on line 11
+[01-Apr-2025 03:13:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ComplexFunctions.php on line 10
+[01-Apr-2025 03:13:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/BesselY.php on line 9
+[01-Apr-2025 03:13:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertUOM.php on line 9
+[01-Apr-2025 03:13:27 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/Compare.php on line 8
+[01-Apr-2025 03:13:27 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/BesselK.php on line 10
+[01-Apr-2025 03:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Engineering\ConvertBase" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertDecimal.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Engineering/ConvertDecimal.php on line 8

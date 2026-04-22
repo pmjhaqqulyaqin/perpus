@@ -1,0 +1,15 @@
+[01-Apr-2025 02:52:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "STDERR" in /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.test1.php:10
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.test1.php(24): usage()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.test1.php on line 10
+[01-Apr-2025 02:53:03 UTC] PHP Warning:  require_once(phplot.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.example.php on line 6
+[01-Apr-2025 02:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phplot.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.example.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phplot/contrib/color_range.example.php on line 6
+[01-Apr-2025 02:53:11 UTC] PHP Warning:  require_once(phplot.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/phplot/contrib/prune_labels.example.php on line 7
+[01-Apr-2025 02:53:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phplot.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/phplot/contrib/prune_labels.example.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phplot/contrib/prune_labels.example.php on line 7

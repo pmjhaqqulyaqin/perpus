@@ -1,0 +1,8 @@
+[26-Jan-2025 04:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Session\Driver\Contract" not found in /home/mandalo1/public_html/perpus/lib/Session/Driver/Files.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Session/Driver/Files.php on line 13
+[01-Apr-2025 03:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Session\Driver\Contract" not found in /home/mandalo1/public_html/perpus/lib/Session/Driver/Files.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Session/Driver/Files.php on line 13

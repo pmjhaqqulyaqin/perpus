@@ -1,0 +1,15 @@
+[01-Apr-2025 03:45:23 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/lib/contents/clustering.inc.php on line 22
+[01-Apr-2025 03:45:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/lib/contents/clustering.inc.php on line 22
+[01-Apr-2025 03:45:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "LIB" in /home/mandalo1/public_html/perpus/lib/contents/news.inc.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/contents/news.inc.php on line 21
+[01-Apr-2025 03:45:44 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/lib/contents/sharelink.inc.php on line 20
+[01-Apr-2025 03:45:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SWB" in /home/mandalo1/public_html/perpus/lib/contents/sharelink.inc.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/contents/sharelink.inc.php on line 22
+[01-Apr-2025 03:50:35 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "page_title" on null in /home/mandalo1/public_html/perpus/lib/contents/2fa.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/contents/2fa.inc.php on line 3

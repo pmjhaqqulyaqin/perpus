@@ -1,0 +1,8 @@
+[01-Apr-2025 02:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "ZipStream\Stream" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/DeflateStream.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/DeflateStream.php on line 6
+[01-Apr-2025 02:53:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Stream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/src/Stream.php on line 16

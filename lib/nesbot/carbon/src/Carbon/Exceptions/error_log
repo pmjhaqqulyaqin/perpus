@@ -1,0 +1,108 @@
+[01-Apr-2025 03:30:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnitException.php on line 16
+[01-Apr-2025 03:30:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\Exception" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php on line 14
+[01-Apr-2025 03:30:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\RuntimeException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php on line 17
+[01-Apr-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\RuntimeException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php on line 16
+[01-Apr-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php on line 17
+[01-Apr-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Exceptions\UnitException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php on line 16
+[01-Apr-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php on line 16
+[01-Apr-2025 03:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php on line 17
+[01-Apr-2025 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php on line 16
+[01-Apr-2025 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\Exception" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php on line 14
+[01-Apr-2025 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php on line 17
+[01-Apr-2025 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php on line 16
+[01-Apr-2025 03:30:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php on line 17
+[01-Apr-2025 03:30:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php on line 20
+[01-Apr-2025 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php on line 16
+[01-Apr-2025 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php on line 16
+[01-Apr-2025 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php on line 17
+[01-Apr-2025 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php on line 16
+[01-Apr-2025 03:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Exceptions\UnitException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php on line 16
+[01-Apr-2025 03:30:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\Exception" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php on line 14
+[01-Apr-2025 03:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php on line 18
+[01-Apr-2025 03:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php on line 17
+[01-Apr-2025 03:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php on line 16
+[01-Apr-2025 03:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php on line 17
+[01-Apr-2025 03:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Exceptions\UnitException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php on line 16
+[01-Apr-2025 03:31:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php on line 17
+[01-Apr-2025 03:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php on line 16

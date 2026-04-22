@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Plugins" not found in /home/mandalo1/public_html/perpus/plugins/biblio_adv_log.plugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/biblio_adv_log.plugin.php on line 17

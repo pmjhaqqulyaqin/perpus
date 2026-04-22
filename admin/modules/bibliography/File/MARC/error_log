@@ -1,0 +1,40 @@
+[26-Jan-2025 05:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "File_MARC_Field" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Data_Field.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Data_Field.php on line 54
+[26-Jan-2025 05:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "PEAR_Exception" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Exception.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Exception.php on line 50
+[26-Jan-2025 05:23:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Field.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Field.php on line 39
+[26-Jan-2025 05:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "File_MARC_Field" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Control_Field.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Control_Field.php on line 53
+[26-Jan-2025 05:23:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Lint.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Lint.php on line 38
+[01-Apr-2025 03:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "File_MARC_Field" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Control_Field.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Control_Field.php on line 53
+[01-Apr-2025 03:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "File_MARC_Field" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Data_Field.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Data_Field.php on line 54
+[01-Apr-2025 03:51:27 UTC] PHP Fatal error:  Uncaught Error: Class "PEAR_Exception" not found in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Exception.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Exception.php on line 50
+[01-Apr-2025 03:51:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Lint.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Lint.php on line 38
+[01-Apr-2025 03:51:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MDLBS" in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Field.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/bibliography/File/MARC/Field.php on line 39

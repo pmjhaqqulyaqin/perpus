@@ -1,0 +1,44 @@
+[01-Apr-2025 02:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseHealth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseHealth.php on line 16
+[01-Apr-2025 02:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseBackup.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseBackup.php on line 17
+[01-Apr-2025 02:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DeactivePlugin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DeactivePlugin.php on line 16
+[01-Apr-2025 02:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseMigrate.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DatabaseMigrate.php on line 18
+[01-Apr-2025 02:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/SlimsStatus.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/SlimsStatus.php on line 16
+[01-Apr-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/CreateEnv.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/CreateEnv.php on line 13
+[01-Apr-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/GetPlugin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/GetPlugin.php on line 16
+[01-Apr-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DetailPlugin.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/DetailPlugin.php on line 15
+[01-Apr-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Commands\GetPlugin" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/ActivePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/ActivePlugin.php on line 17
+[01-Apr-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/CreateCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/CreateCommand.php on line 13
+[01-Apr-2025 03:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Cli\Command" not found in /home/mandalo1/public_html/perpus/lib/Cli/Commands/Tarsius.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Cli/Commands/Tarsius.php on line 13

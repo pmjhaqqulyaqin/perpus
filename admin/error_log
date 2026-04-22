@@ -1,0 +1,447 @@
+[14-May-2024 10:02:59 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[14-May-2024 10:02:59 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[14-May-2024 10:06:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[14-May-2024 10:06:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[15-May-2024 09:26:18 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[15-May-2024 09:26:18 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[02-Aug-2024 09:00:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[02-Aug-2024 09:00:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[02-Aug-2024 09:05:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[02-Aug-2024 09:05:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[02-Aug-2024 09:08:20 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[02-Aug-2024 09:08:20 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[02-Aug-2024 09:09:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[02-Aug-2024 09:09:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[02-Aug-2024 09:14:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[02-Aug-2024 09:14:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[06-Aug-2024 07:23:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[06-Aug-2024 07:23:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[06-Aug-2024 07:24:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[06-Aug-2024 07:24:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[08-Aug-2024 06:09:37 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mandalo1_slim423.read_counter' doesn't exist in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/plugins/read_counter/index.php(98): simbio_datagrid->createDataGrid(Object(mysqli), 'read_counter')
+#2 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[26-Jan-2025 05:31:51 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[26-Jan-2025 05:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[26-Jan-2025 05:31:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[26-Jan-2025 12:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/logout.php on line 36
+[26-Jan-2025 12:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 36
+[26-Jan-2025 12:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "uname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[26-Jan-2025 12:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[26-Jan-2025 12:31:57 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[01-Apr-2025 10:51:10 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/logout.php on line 36
+[01-Apr-2025 10:51:10 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 36
+[01-Apr-2025 10:51:10 Asia/Jakarta] PHP Warning:  Undefined array key "uname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[01-Apr-2025 10:51:10 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[01-Apr-2025 10:51:10 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/public_html/perpus/admin/logout.php on line 38
+[01-Apr-2025 03:51:57 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[01-Apr-2025 03:51:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[01-Apr-2025 03:51:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/chat.php on line 4
+[12-Jun-2025 08:20:33 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://tajukonline.perpusnas.go.id/DataAuthListSemuaRuas.aspx?keyword=bahasa&operand=1&tajuk=4` resulted in a `403 Forbidden` response:
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', '/DataAuthListSe...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('/DataAuthListSe...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(168): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/src/Topik/Search.php(31): SLiMS\Http\Client->__call('get', Array)
+#14 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/AJAX_vocabolary_control.php(12): Hendrowicaksono\TajukOnline\Topik\Search->index('bahasa', 't')
+#15 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/tajuk.plugin.php(37): include('/home/mandalo1/...')
+#16 [internal function]: SLiMS\Plugins->{closure}()
+#17 /home/mandalo1/public_html/perpus/lib/Plugins.php(489): call_user_func_array(Object(Closure), Array)
+#18 /home/mandalo1/public_html/perpus/lib/Plugins.php(482): SLiMS\Plugins->execute(Array, Array)
+#19 /home/mandalo1/public_html/perpus/admin/default/session.inc.php(40): SLiMS\Plugins::run('admin_session_a...')
+#20 /home/mandalo1/public_html/perpus/admin/AJAX_vocabolary_control.php(34): require('/home/mandalo1/...')
+#21 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[12-Jun-2025 08:21:00 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://tajukonline.perpusnas.go.id/DataAuthListSemuaRuas.aspx?keyword=bahasa&operand=1&tajuk=4` resulted in a `403 Forbidden` response:
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', '/DataAuthListSe...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('/DataAuthListSe...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(168): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/src/Topik/Search.php(31): SLiMS\Http\Client->__call('get', Array)
+#14 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/AJAX_vocabolary_control.php(12): Hendrowicaksono\TajukOnline\Topik\Search->index('bahasa', 't')
+#15 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/tajuk.plugin.php(37): include('/home/mandalo1/...')
+#16 [internal function]: SLiMS\Plugins->{closure}()
+#17 /home/mandalo1/public_html/perpus/lib/Plugins.php(489): call_user_func_array(Object(Closure), Array)
+#18 /home/mandalo1/public_html/perpus/lib/Plugins.php(482): SLiMS\Plugins->execute(Array, Array)
+#19 /home/mandalo1/public_html/perpus/admin/default/session.inc.php(40): SLiMS\Plugins::run('admin_session_a...')
+#20 /home/mandalo1/public_html/perpus/admin/AJAX_vocabolary_control.php(34): require('/home/mandalo1/...')
+#21 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[12-Jun-2025 08:21:09 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://tajukonline.perpusnas.go.id/DataAuthListSemuaRuas.aspx?keyword=hobi&operand=1&tajuk=4` resulted in a `403 Forbidden` response:
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', '/DataAuthListSe...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('/DataAuthListSe...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(168): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/src/Topik/Search.php(31): SLiMS\Http\Client->__call('get', Array)
+#14 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/AJAX_vocabolary_control.php(12): Hendrowicaksono\TajukOnline\Topik\Search->index('hobi', 't')
+#15 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/tajuk.plugin.php(37): include('/home/mandalo1/...')
+#16 [internal function]: SLiMS\Plugins->{closure}()
+#17 /home/mandalo1/public_html/perpus/lib/Plugins.php(489): call_user_func_array(Object(Closure), Array)
+#18 /home/mandalo1/public_html/perpus/lib/Plugins.php(482): SLiMS\Plugins->execute(Array, Array)
+#19 /home/mandalo1/public_html/perpus/admin/default/session.inc.php(40): SLiMS\Plugins::run('admin_session_a...')
+#20 /home/mandalo1/public_html/perpus/admin/AJAX_vocabolary_control.php(34): require('/home/mandalo1/...')
+#21 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[12-Jun-2025 08:21:25 Asia/Jakarta] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `GET https://tajukonline.perpusnas.go.id/DataAuthListSemuaRuas.aspx?keyword=hobi&operand=1&tajuk=4` resulted in a `403 Forbidden` response:
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class (truncated...)
+ in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response), NULL, Array, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /home/mandalo1/public_html/perpus/lib/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Client.php(187): GuzzleHttp\Promise\Promise->wait()
+#10 /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/ClientTrait.php(44): GuzzleHttp\Client->request('GET', '/DataAuthListSe...', Array)
+#11 /home/mandalo1/public_html/perpus/lib/Http/Client.php(136): GuzzleHttp\Client->get('/DataAuthListSe...', Array)
+#12 /home/mandalo1/public_html/perpus/lib/Http/Client.php(168): SLiMS\Http\Client::magicCaller('get', Array)
+#13 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/src/Topik/Search.php(31): SLiMS\Http\Client->__call('get', Array)
+#14 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/AJAX_vocabolary_control.php(12): Hendrowicaksono\TajukOnline\Topik\Search->index('hobi', 't')
+#15 /home/mandalo1/public_html/perpus/plugins/slims-tajuk/tajuk.plugin.php(37): include('/home/mandalo1/...')
+#16 [internal function]: SLiMS\Plugins->{closure}()
+#17 /home/mandalo1/public_html/perpus/lib/Plugins.php(489): call_user_func_array(Object(Closure), Array)
+#18 /home/mandalo1/public_html/perpus/lib/Plugins.php(482): SLiMS\Plugins->execute(Array, Array)
+#19 /home/mandalo1/public_html/perpus/admin/default/session.inc.php(40): SLiMS\Plugins::run('admin_session_a...')
+#20 /home/mandalo1/public_html/perpus/admin/AJAX_vocabolary_control.php(34): require('/home/mandalo1/...')
+#21 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[13-Jun-2025 07:08:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[13-Jun-2025 07:08:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[17-Jul-2025 12:32:01 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[17-Jul-2025 12:32:01 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[17-Jul-2025 12:34:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[17-Jul-2025 12:34:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[17-Jul-2025 12:39:44 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:39:52 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:40:31 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:40:38 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:40:39 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mandalo1_slim423.read_counter' doesn't exist in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/plugins/read_counter/index.php(98): simbio_datagrid->createDataGrid(Object(mysqli), 'read_counter')
+#2 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[17-Jul-2025 12:40:40 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:40:44 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mandalo1_slim423.read_counter' doesn't exist in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/plugins/read_counter/index.php(98): simbio_datagrid->createDataGrid(Object(mysqli), 'read_counter')
+#2 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[17-Jul-2025 12:40:45 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:40:55 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mandalo1_slim423.read_counter' doesn't exist in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/plugins/read_counter/index.php(98): simbio_datagrid->createDataGrid(Object(mysqli), 'read_counter')
+#2 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[17-Jul-2025 12:40:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:49:37 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:51:03 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:51:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'mandalo1_slim423.read_counter' doesn't exist in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php:172
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php(172): mysqli->query('SELECT SQL_CALC...')
+#1 /home/mandalo1/public_html/perpus/plugins/read_counter/index.php(98): simbio_datagrid->createDataGrid(Object(mysqli), 'read_counter')
+#2 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/simbio2/simbio_DB/datagrid/simbio_dbgrid.inc.php on line 172
+[17-Jul-2025 12:51:38 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php:304
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/admin/plugin_container.php(27): require_once()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 304
+[17-Jul-2025 12:52:52 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[17-Jul-2025 12:52:52 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[17-Jul-2025 12:54:12 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[17-Jul-2025 12:54:12 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 07:54:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 07:54:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 07:55:19 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 07:55:19 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 08:08:54 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 08:08:54 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 08:20:41 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 08:20:41 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 08:34:29 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 08:34:29 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 08:36:58 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 08:36:58 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 08:38:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 08:38:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 09:27:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 09:27:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[18-Jul-2025 09:41:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[18-Jul-2025 09:41:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 06:13:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 06:13:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 07:31:36 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 07:31:36 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 07:35:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 07:35:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:05:03 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:05:03 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:21:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:21:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:23:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:23:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:24:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:24:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:25:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:25:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:27:17 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:27:17 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:28:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:28:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:30:33 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:30:33 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:31:48 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:31:48 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:32:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:32:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:34:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:34:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:34:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:34:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:35:55 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:35:55 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:37:56 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:37:56 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:41:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:41:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:42:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:42:49 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:44:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:44:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:45:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:45:46 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:53:21 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:53:21 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:55:16 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:55:16 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:56:11 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:56:11 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:57:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:57:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:57:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:57:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:58:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:58:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 08:59:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 08:59:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:02:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:02:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:22:12 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:22:12 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:23:27 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:23:27 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:28:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:28:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:29:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:29:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 09:35:51 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 09:35:51 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 11:20:44 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 11:20:44 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 11:53:10 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 11:53:10 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[19-Jul-2025 11:54:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[19-Jul-2025 11:54:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 06:42:18 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 06:42:18 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 06:43:39 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 06:43:39 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 07:05:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 07:05:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:38:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:38:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:39:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:39:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:40:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:40:43 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:41:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:41:24 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:42:14 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:42:14 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 08:42:56 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 08:42:56 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:28:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:28:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:32:00 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:32:00 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:48:13 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:48:13 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:49:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:49:50 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:50:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:50:45 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:51:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:51:30 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:55:09 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:55:09 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:56:47 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:56:47 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:57:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:57:35 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:58:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:58:02 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[22-Jul-2025 09:59:05 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[22-Jul-2025 09:59:05 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[24-Jul-2025 07:02:52 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 92
+[24-Jul-2025 07:02:52 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/public_html/perpus/plugins/label_barcode/index.php on line 96
+[04-Sep-2025 08:14:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 11:09:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 11:09:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 19:35:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 02:28:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 20:07:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 20:07:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Jan-2026 08:36:11 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[10-Jan-2026 08:36:11 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[10-Jan-2026 08:37:10 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[10-Jan-2026 08:37:10 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:05:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:05:25 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:07:41 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:07:41 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:12:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:12:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:33:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:33:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:35:16 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:35:16 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:51:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:51:04 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:55:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:55:42 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 07:58:01 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 07:58:01 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 08:39:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 08:39:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 08:43:31 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 08:43:31 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:03:14 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:03:14 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:17:13 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:17:13 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:19:44 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:19:44 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:21:19 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:21:19 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:24:21 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:24:21 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:26:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:26:57 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:29:58 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:29:58 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:33:33 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:33:33 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 09:57:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 09:57:53 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 10:00:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 10:00:40 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 11:36:20 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/perpus/admin/logout.php on line 36
+[12-Jan-2026 11:36:20 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/perpus/admin/logout.php on line 36
+[12-Jan-2026 11:36:20 Asia/Jakarta] PHP Warning:  Undefined array key "uname" in /home/mandalo1/perpus/admin/logout.php on line 38
+[12-Jan-2026 11:36:20 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/perpus/admin/logout.php on line 38
+[12-Jan-2026 11:36:20 Asia/Jakarta] PHP Warning:  Undefined array key "realname" in /home/mandalo1/perpus/admin/logout.php on line 38
+[12-Jan-2026 11:39:48 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 11:39:48 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[12-Jan-2026 11:43:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[12-Jan-2026 11:43:07 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[23-Jan-2026 07:18:39 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[23-Jan-2026 07:18:39 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96
+[23-Jan-2026 07:22:38 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_item in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 92
+[23-Jan-2026 07:22:38 Asia/Jakarta] PHP Warning:  Undefined variable $print_count_biblio in /home/mandalo1/perpus/plugins/label_barcode/index.php on line 96

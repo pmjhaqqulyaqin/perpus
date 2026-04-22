@@ -1,0 +1,16 @@
+[26-Jan-2025 04:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/RequestExceptionInterface.php on line 14
+[26-Jan-2025 04:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[01-Apr-2025 03:50:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/RequestExceptionInterface.php on line 14
+[01-Apr-2025 03:50:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/psr/http-client/src/NetworkExceptionInterface.php on line 14

@@ -1,0 +1,12 @@
+[01-Apr-2025 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Node" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Text.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Text.php on line 12
+[01-Apr-2025 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Node" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Comment.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Comment.php on line 6
+[01-Apr-2025 03:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Node" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Element.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Node/Element.php on line 6

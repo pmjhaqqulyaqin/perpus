@@ -1,0 +1,14 @@
+[26-Jan-2025 04:35:42 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[26-Jan-2025 04:35:42 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[26-Jan-2025 04:35:42 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[26-Jan-2025 04:35:42 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Matrix" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 18
+[01-Apr-2025 03:45:31 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[01-Apr-2025 03:45:32 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[01-Apr-2025 03:45:32 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 6
+[01-Apr-2025 03:45:32 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Matrix" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/examples/test.php on line 18

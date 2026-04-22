@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Migration\Migration" not found in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/migration/1_CreateSchema.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/migration/1_CreateSchema.php on line 15

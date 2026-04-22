@@ -1,0 +1,4 @@
+[01-Apr-2025 03:29:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Writer\TranslationWriterInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Writer/TranslationWriter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Writer/TranslationWriter.php on line 24

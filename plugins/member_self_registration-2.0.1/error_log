@@ -1,0 +1,4 @@
+[01-Apr-2025 02:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Url" not found in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/member_self_registration.plugin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/member_self_registration.plugin.php on line 18

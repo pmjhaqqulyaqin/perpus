@@ -1,0 +1,33 @@
+[01-Apr-2025 03:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/lightweight/partials/advsearch.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/lightweight/partials/advsearch.php on line 10
+[01-Apr-2025 03:51:14 UTC] PHP Warning:  Undefined variable $dbs in /home/mandalo1/public_html/perpus/template/lightweight/partials/footer.php on line 6
+[01-Apr-2025 03:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mandalo1/public_html/perpus/template/lightweight/partials/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/lightweight/partials/footer.php on line 6
+[01-Apr-2025 03:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/lightweight/partials/nav.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/lightweight/partials/nav.php on line 5
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php on line 7
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php on line 23
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php on line 24
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php on line 24
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SENAYAN_VERSION" in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/lightweight/partials/meta.php on line 27
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 9
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 11
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 11
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 12
+[01-Apr-2025 03:51:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/lightweight/partials/header.php on line 12

@@ -1,0 +1,24 @@
+[01-Apr-2025 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Classic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Classic.php on line 23
+[01-Apr-2025 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/PowerOfTwo.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/PowerOfTwo.php on line 23
+[01-Apr-2025 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Barrett.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Barrett.php on line 24
+[01-Apr-2025 03:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Reductions\Montgomery" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/MontgomeryMult.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/MontgomeryMult.php on line 23
+[01-Apr-2025 03:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Montgomery" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Montgomery.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/Montgomery.php on line 23
+[01-Apr-2025 03:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/EvalBarrett.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP/Reductions/EvalBarrett.php on line 24

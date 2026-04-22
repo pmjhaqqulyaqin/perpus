@@ -1,0 +1,20 @@
+[01-Apr-2025 03:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Path\OperationInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[01-Apr-2025 03:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Path\OperationInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Move.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 6
+[01-Apr-2025 03:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Path\OperationInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Line.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 6
+[01-Apr-2025 03:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Path\OperationInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Curve.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 6
+[01-Apr-2025 03:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Path\OperationInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 6

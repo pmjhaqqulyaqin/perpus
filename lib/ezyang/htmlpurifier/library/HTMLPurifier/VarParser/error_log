@@ -1,0 +1,8 @@
+[01-Apr-2025 03:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_VarParser" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Native.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Native.php on line 8
+[01-Apr-2025 03:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_VarParser" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Flexible.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Flexible.php on line 8

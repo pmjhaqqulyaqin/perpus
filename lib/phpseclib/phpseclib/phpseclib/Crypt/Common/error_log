@@ -1,0 +1,8 @@
+[01-Apr-2025 03:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\SymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Common/StreamCipher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Common/StreamCipher.php on line 22
+[01-Apr-2025 03:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\SymmetricKey" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Common/BlockCipher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/Common/BlockCipher.php on line 22

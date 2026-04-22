@@ -1,0 +1,347 @@
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:34:46 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:34:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:34:49 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:34:49 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:34:49 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:34:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:34:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:34:51 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:34:51 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:36:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:36:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:36:32 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:36:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:40:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:40:04 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:40:04 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:40:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:40:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:40:32 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:40:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:40:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:40:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:40:34 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:40:43 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:40:43 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:40:43 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:40:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:40:48 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:40:48 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:41:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:41:03 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:41:03 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:41:03 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:41:05 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:41:05 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:41:05 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:43:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:43:41 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:43:41 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:43:41 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:43:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:43:45 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:43:45 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:44:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:44:06 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:44:06 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:44:06 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:44:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:44:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:44:12 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:47:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:47:52 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:47:52 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:47:52 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:47:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:47:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:47:57 Asia/Jakarta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:221
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->prepare()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 221
+[08-Sep-2024 18:48:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:48:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:48:54 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:48:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:50:05 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:50:05 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:50:05 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:50:05 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:50:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:50:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:50:08 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:50:08 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:50:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:50:10 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:50:10 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:50:10 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[08-Sep-2024 18:53:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 217
+[08-Sep-2024 18:53:32 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type bool in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 218
+[08-Sep-2024 18:53:32 Asia/Jakarta] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 263
+[08-Sep-2024 18:53:32 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: imagecopyresampled(): Argument #2 ($src_image) must be of type GdImage, bool given in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php:273
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php(273): imagecopyresampled(Object(GdImage), false, 0, 0, 0, 0, '50', '65', NULL, NULL)
+#1 /home/mandalo1/public_html/perpus/lib/minigalnano/createthumb.php(50): Minigalnano\Thumb->generate()
+#2 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/minigalnano/Thumb.php on line 273
+[28-Mar-2025 11:27:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[28-Mar-2025 17:00:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[28-Mar-2025 20:29:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[29-Mar-2025 06:15:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 06:23:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 07:22:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 08:12:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 08:12:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 08:12:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 09:52:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[30-Mar-2025 18:29:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[31-Mar-2025 00:21:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[31-Mar-2025 05:06:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[31-Mar-2025 10:24:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[31-Mar-2025 17:49:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[03-Sep-2025 17:06:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[03-Sep-2025 17:20:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[03-Sep-2025 19:06:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[03-Sep-2025 21:36:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[03-Sep-2025 23:54:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 01:39:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 01:39:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 01:39:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 01:48:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 03:30:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 10:45:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 12:35:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 12:36:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 13:00:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 13:19:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 13:23:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 13:59:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 14:14:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[04-Sep-2025 17:00:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 07:14:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 07:35:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 07:36:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 08:15:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 09:56:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 10:05:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 10:24:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 13:03:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 13:05:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 14:39:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 15:38:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 15:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 16:01:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 16:17:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 16:34:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 16:42:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 17:36:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[05-Sep-2025 18:37:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 09:19:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 14:01:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 14:08:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:03:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:03:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:28:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:28:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:28:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:30:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 17:31:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 20:13:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 20:49:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 21:34:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[06-Sep-2025 23:09:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 00:03:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 00:30:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 00:42:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 01:05:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 02:08:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 05:06:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 05:17:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 14:44:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 14:44:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 16:23:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 16:47:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 17:09:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 17:19:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 18:09:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 19:39:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[07-Sep-2025 21:13:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 04:53:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 08:49:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 10:15:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 11:43:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 13:50:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 13:53:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[08-Sep-2025 16:56:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 02:18:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 03:02:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 03:50:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 04:14:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 04:50:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 05:30:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 07:05:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 08:52:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 09:28:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 13:32:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 13:52:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 13:55:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 13:59:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 21:26:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 21:26:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 22:36:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 22:36:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 22:38:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 23:03:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[09-Sep-2025 23:40:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 01:48:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 01:48:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 06:03:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 07:29:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 08:28:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 09:20:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 16:02:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 18:42:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 18:50:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 18:51:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 18:55:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 21:56:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[10-Sep-2025 22:03:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 07:38:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 08:58:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 09:39:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 10:24:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 10:54:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 11:42:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 13:48:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:00:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:25:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:25:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:27:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:29:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:30:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 15:54:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 16:15:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 16:45:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[11-Sep-2025 17:00:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 00:58:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 01:21:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 01:57:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 02:34:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 08:12:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 09:36:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 10:59:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 14:10:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 15:18:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 16:14:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 16:48:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 17:10:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 17:50:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 18:44:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 19:46:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 19:49:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21
+[12-Sep-2025 22:07:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mandalo1/public_html/perpus/plugins/member_self_registration-2.0.1/helper.php on line 21

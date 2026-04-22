@@ -1,0 +1,8 @@
+[01-Apr-2025 03:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Test/ProviderTestCase.php on line 29
+[01-Apr-2025 03:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Test/ProviderFactoryTestCase.php on line 32

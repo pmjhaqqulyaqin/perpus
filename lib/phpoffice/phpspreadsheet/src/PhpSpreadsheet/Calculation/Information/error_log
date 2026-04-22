@@ -1,0 +1,3 @@
+[01-Apr-2025 03:13:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Information/Value.php on line 13
+[01-Apr-2025 03:13:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Information/ExcelError.php on line 7
+[01-Apr-2025 03:13:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Information/ErrorValue.php on line 7

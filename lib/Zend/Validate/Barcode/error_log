@@ -1,0 +1,140 @@
+[01-Apr-2025 02:53:02 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Sscc.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean18.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Leitcode.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Leitcode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Leitcode.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean18.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean18.php on line 25
+[01-Apr-2025 02:53:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Sscc.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Sscc.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Intelligentmail.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upce.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upce.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upce.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Intelligentmail.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Intelligentmail.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin14.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upca.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin14.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin14.php on line 25
+[01-Apr-2025 02:53:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upca.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Upca.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Planet.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Itf14.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean2.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Planet.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Planet.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean2.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean2.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Itf14.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Itf14.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin13.php on line 25
+[01-Apr-2025 02:53:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin13.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin13.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39ext.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin12.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39ext.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39ext.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin12.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Gtin12.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean13.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean13.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean13.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean8.php on line 25
+[01-Apr-2025 02:53:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean8.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean8.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Postnet.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93ext.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Postnet.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Postnet.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93ext.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93ext.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Issn.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Issn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Issn.php on line 25
+[01-Apr-2025 02:53:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code39.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Identcode.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean5.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Identcode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Identcode.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean5.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean5.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93.php on line 25
+[01-Apr-2025 02:53:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code93.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean12.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean12.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean12.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Royalmail.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Royalmail.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Royalmail.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterInterface.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/AdapterAbstract.php on line 25
+[01-Apr-2025 02:53:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterInterface.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/AdapterAbstract.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/AdapterAbstract.php on line 25
+[01-Apr-2025 02:53:12 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25interleaved.php on line 25
+[01-Apr-2025 02:53:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25interleaved.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Code25interleaved.php on line 25
+[01-Apr-2025 02:53:19 UTC] PHP Warning:  require_once(Zend/Validate/Barcode/AdapterAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean14.php on line 25
+[01-Apr-2025 02:53:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Validate/Barcode/AdapterAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean14.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Validate/Barcode/Ean14.php on line 25

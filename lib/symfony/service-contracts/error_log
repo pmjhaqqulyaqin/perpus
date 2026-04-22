@@ -1,0 +1,4 @@
+[01-Apr-2025 03:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/service-contracts/ServiceProviderInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/service-contracts/ServiceProviderInterface.php on line 24

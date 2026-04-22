@@ -1,0 +1,34 @@
+[26-Jan-2025 06:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/mla_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/mla_style_template.php on line 20
+[26-Jan-2025 06:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/chicago_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/chicago_style_template.php on line 20
+[26-Jan-2025 06:23:53 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php on line 18
+[26-Jan-2025 06:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php on line 23
+[26-Jan-2025 06:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/apa_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/apa_style_template.php on line 20
+[01-Apr-2025 03:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/mla_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/mla_style_template.php on line 20
+[01-Apr-2025 03:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/chicago_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/chicago_style_template.php on line 20
+[01-Apr-2025 03:51:28 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php on line 18
+[01-Apr-2025 03:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/turabian_style_template.php on line 23
+[01-Apr-2025 03:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/apa_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/citation/apa_style_template.php on line 20

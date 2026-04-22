@@ -1,0 +1,12 @@
+[26-Jan-2025 11:41:52 Asia/Jakarta] PHP Warning:  Undefined array key "uid" in /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php on line 1
+[26-Jan-2025 11:41:52 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND (admin_template!=NULL OR admin_template !='')' at line 1 in /home/mandalo1/public_html/perpus/lib/utility.inc.php:651
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/lib/utility.inc.php(651): mysqli->query('SELECT admin_te...')
+#1 /home/mandalo1/public_html/perpus/admin/admin_template/notemplate_page_tpl.php(1): utility::loadUserTemplate(Object(mysqli), NULL)
+#2 /home/mandalo1/public_html/perpus/admin/modules/master_file/iframe_vocabolary_control.php(92): require('/home/mandalo1/...')
+#3 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/utility.inc.php on line 651
+[26-Jan-2025 04:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_checkIP() in /home/mandalo1/public_html/perpus/admin/modules/master_file/submenu.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/modules/master_file/submenu.php on line 23

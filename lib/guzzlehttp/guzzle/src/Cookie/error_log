@@ -1,0 +1,24 @@
+[26-Jan-2025 04:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[26-Jan-2025 04:31:47 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[26-Jan-2025 04:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[01-Apr-2025 03:45:41 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[01-Apr-2025 03:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[01-Apr-2025 03:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10

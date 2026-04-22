@@ -1,0 +1,20 @@
+[01-Apr-2025 03:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC\BaseCurves\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Montgomery.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Montgomery.php on line 37
+[01-Apr-2025 03:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC\BaseCurves\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Binary.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Binary.php on line 33
+[01-Apr-2025 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC\BaseCurves\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/TwistedEdwards.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/TwistedEdwards.php on line 38
+[01-Apr-2025 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC\BaseCurves\Prime" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/KoblitzPrime.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/KoblitzPrime.php on line 39
+[01-Apr-2025 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\EC\BaseCurves\Base" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Prime.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Crypt/EC/BaseCurves/Prime.php on line 35

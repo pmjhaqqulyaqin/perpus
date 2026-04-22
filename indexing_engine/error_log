@@ -1,0 +1,10 @@
+[26-Jan-2025 04:41:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php:3
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php(3): defined('INDEXING', 'SOLR/')
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php on line 3
+[01-Apr-2025 03:50:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php:3
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php(3): defined('INDEXING', 'SOLR/')
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/indexing_engine/soir_config.conf.php on line 3

@@ -1,0 +1,62 @@
+[01-Apr-2025 02:53:13 UTC] PHP Warning:  require_once(Zend/Barcode/Object/Identcode.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Leitcode.php on line 26
+[01-Apr-2025 02:53:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/Identcode.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Leitcode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Leitcode.php on line 26
+[01-Apr-2025 02:53:14 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Upce.php on line 87
+[01-Apr-2025 02:53:14 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Upca.php on line 143
+[01-Apr-2025 02:53:14 UTC] PHP Warning:  require_once(Zend/Barcode/Object/Code25interleaved.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Itf14.php on line 24
+[01-Apr-2025 02:53:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/Code25interleaved.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Itf14.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Itf14.php on line 24
+[01-Apr-2025 02:53:14 UTC] PHP Warning:  require_once(Zend/Barcode/Object/Ean5.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean2.php on line 26
+[01-Apr-2025 02:53:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/Ean5.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean2.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean2.php on line 26
+[01-Apr-2025 02:53:15 UTC] PHP Warning:  require_once(Zend/Barcode/Object/Postnet.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Planet.php on line 26
+[01-Apr-2025 02:53:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/Postnet.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Planet.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Planet.php on line 26
+[01-Apr-2025 02:53:15 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean13.php on line 169
+[01-Apr-2025 02:53:15 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean8.php on line 126
+[01-Apr-2025 02:53:15 UTC] PHP Warning:  require_once(Zend/Barcode/Object/ObjectAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code39.php on line 26
+[01-Apr-2025 02:53:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/ObjectAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code39.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code39.php on line 26
+[01-Apr-2025 02:53:16 UTC] PHP Warning:  require_once(Zend/Barcode/Exception.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Exception.php on line 23
+[01-Apr-2025 02:53:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Exception.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Exception.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Exception.php on line 23
+[01-Apr-2025 02:53:16 UTC] PHP Warning:  require_once(Zend/Barcode/Object/ObjectAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Error.php on line 24
+[01-Apr-2025 02:53:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/ObjectAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Error.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Error.php on line 24
+[01-Apr-2025 02:53:16 UTC] PHP Warning:  require_once(Zend/Barcode/Object/ObjectAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Postnet.php on line 26
+[01-Apr-2025 02:53:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/ObjectAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Postnet.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Postnet.php on line 26
+[01-Apr-2025 02:53:16 UTC] PHP Warning:  require_once(Zend/Barcode/Object/Code25.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code25interleaved.php on line 24
+[01-Apr-2025 02:53:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/Code25.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code25interleaved.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code25interleaved.php on line 24
+[01-Apr-2025 02:53:17 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Identcode.php on line 88
+[01-Apr-2025 02:53:17 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code25.php on line 135
+[01-Apr-2025 02:53:17 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Ean5.php on line 127
+[01-Apr-2025 02:53:17 UTC] PHP Warning:  require_once(Zend/Barcode/Object/ObjectAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code128.php on line 26
+[01-Apr-2025 02:53:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/ObjectAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code128.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Code128.php on line 26
+[01-Apr-2025 02:53:18 UTC] PHP Warning:  require_once(Zend/Barcode/Object/ObjectAbstract.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Royalmail.php on line 26
+[01-Apr-2025 02:53:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'Zend/Barcode/Object/ObjectAbstract.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Royalmail.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Zend/Barcode/Object/Royalmail.php on line 26

@@ -1,0 +1,1 @@
+[01-Apr-2025 03:13:32 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Financial/Dollar.php on line 11

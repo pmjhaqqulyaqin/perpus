@@ -1,0 +1,42 @@
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[26-Jan-2025 04:35:45 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[26-Jan-2025 04:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 9
+[26-Jan-2025 04:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 43
+[26-Jan-2025 04:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 9
+[01-Apr-2025 03:45:29 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[01-Apr-2025 03:45:29 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[01-Apr-2025 03:45:29 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 5
+[01-Apr-2025 03:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testFunctions.php on line 43
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 6
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[01-Apr-2025 03:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/testOperations.php on line 9
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[01-Apr-2025 03:45:49 UTC] PHP Warning:  include(): Failed opening '/home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/../vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 5
+[01-Apr-2025 03:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Complex\Complex" not found in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/complex/examples/complexTest.php on line 9

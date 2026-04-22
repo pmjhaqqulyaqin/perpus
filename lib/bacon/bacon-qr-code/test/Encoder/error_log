@@ -1,0 +1,12 @@
+[01-Apr-2025 03:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/MatrixUtilTest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/MatrixUtilTest.php on line 15
+[01-Apr-2025 03:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/MaskUtilTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/MaskUtilTest.php on line 10
+[01-Apr-2025 03:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/EncoderTest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Encoder/EncoderTest.php on line 17

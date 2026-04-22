@@ -1,0 +1,36 @@
+[01-Apr-2025 03:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[01-Apr-2025 03:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[01-Apr-2025 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[01-Apr-2025 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[01-Apr-2025 03:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[01-Apr-2025 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[01-Apr-2025 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/RandomLibAdapter.php on line 30
+[01-Apr-2025 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/CombGenerator.php on line 60
+[01-Apr-2025 03:25:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Generator/DceSecurityGenerator.php on line 37

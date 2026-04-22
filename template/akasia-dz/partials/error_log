@@ -1,0 +1,88 @@
+[26-Jan-2025 06:23:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/nav.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/nav.php on line 5
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 11
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 11
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 12
+[26-Jan-2025 06:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 12
+[26-Jan-2025 06:23:51 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 7
+[26-Jan-2025 06:23:51 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 23
+[26-Jan-2025 06:23:51 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 24
+[26-Jan-2025 06:23:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 24
+[26-Jan-2025 06:23:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SENAYAN_VERSION" in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 27
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $dbs in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php on line 6
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[26-Jan-2025 06:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php on line 6
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[26-Jan-2025 06:23:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[01-Apr-2025 03:51:25 UTC] PHP Warning:  Undefined variable $dbs in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php on line 6
+[01-Apr-2025 03:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/footer.php on line 6
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 8
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 16
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 20
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 25
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[01-Apr-2025 03:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/bg.php on line 60
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/nav.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/nav.php on line 5
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 7
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 23
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 9
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 24
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 11
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 24
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 11
+[01-Apr-2025 03:51:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SENAYAN_VERSION" in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/meta.php on line 27
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 12
+[01-Apr-2025 03:51:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/akasia-dz/partials/header.php on line 12

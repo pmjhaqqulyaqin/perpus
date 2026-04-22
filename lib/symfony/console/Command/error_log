@@ -1,0 +1,20 @@
+[01-Apr-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/HelpCommand.php on line 26
+[01-Apr-2025 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/CompleteCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/CompleteCommand.php on line 33
+[01-Apr-2025 03:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/DumpCompletionCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/DumpCompletionCommand.php on line 28
+[01-Apr-2025 03:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/LazyCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/LazyCommand.php on line 27
+[01-Apr-2025 03:30:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Command/ListCommand.php on line 26

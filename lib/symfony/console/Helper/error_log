@@ -1,0 +1,20 @@
+[01-Apr-2025 03:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[01-Apr-2025 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/Helper.php on line 22
+[01-Apr-2025 03:30:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/QuestionHelper.php on line 35
+[01-Apr-2025 03:30:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[01-Apr-2025 03:31:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/DescriptorHelper.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/console/Helper/DescriptorHelper.php on line 27

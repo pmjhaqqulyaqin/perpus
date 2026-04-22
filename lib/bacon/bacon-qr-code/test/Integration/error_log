@@ -1,0 +1,4 @@
+[01-Apr-2025 03:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Integration/ImagickRenderingTest.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/test/Integration/ImagickRenderingTest.php on line 23

@@ -1,0 +1,12 @@
+[01-Apr-2025 03:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Image\ImageBackEndInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/ImagickImageBackEnd.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/ImagickImageBackEnd.php on line 24
+[01-Apr-2025 03:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Image\ImageBackEndInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/SvgImageBackEnd.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/SvgImageBackEnd.php on line 19
+[01-Apr-2025 03:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Image\ImageBackEndInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/EpsImageBackEnd.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Image/EpsImageBackEnd.php on line 21

@@ -1,0 +1,8 @@
+[01-Apr-2025 03:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Filter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Filter/ExtractStyleBlocks.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Filter/ExtractStyleBlocks.php on line 25
+[01-Apr-2025 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_Filter" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Filter/YouTube.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/Filter/YouTube.php on line 3

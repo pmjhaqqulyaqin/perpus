@@ -1,0 +1,20 @@
+[01-Apr-2025 03:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP64.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP64.php on line 23
+[01-Apr-2025 03:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\Engine" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/BCMath.php on line 24
+[01-Apr-2025 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\PHP" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP32.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP32.php on line 23
+[01-Apr-2025 03:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\Engine" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/GMP.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/GMP.php on line 23
+[01-Apr-2025 03:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\BigInteger\Engines\Engine" not found in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpseclib/phpseclib/phpseclib/Math/BigInteger/Engines/PHP.php on line 24

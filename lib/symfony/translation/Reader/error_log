@@ -1,0 +1,4 @@
+[01-Apr-2025 03:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Reader\TranslationReaderInterface" not found in /home/mandalo1/public_html/perpus/lib/symfony/translation/Reader/TranslationReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/symfony/translation/Reader/TranslationReader.php on line 23

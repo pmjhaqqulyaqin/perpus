@@ -1,0 +1,4 @@
+[01-Apr-2025 03:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "HTMLPurifier_AttrDef_URI_Email" not found in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/URI/Email/SimpleCheck.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/ezyang/htmlpurifier/library/HTMLPurifier/AttrDef/URI/Email/SimpleCheck.php on line 7

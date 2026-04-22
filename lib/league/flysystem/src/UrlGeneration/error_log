@@ -1,0 +1,12 @@
+[01-Apr-2025 02:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UrlGeneration\PublicUrlGenerator" not found in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/ShardedPrefixPublicUrlGenerator.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/ShardedPrefixPublicUrlGenerator.php on line 13
+[01-Apr-2025 02:53:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UrlGeneration\PublicUrlGenerator" not found in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/ChainedPublicUrlGenerator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/ChainedPublicUrlGenerator.php on line 10
+[01-Apr-2025 02:53:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\UrlGeneration\PublicUrlGenerator" not found in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/PrefixPublicUrlGenerator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/league/flysystem/src/UrlGeneration/PrefixPublicUrlGenerator.php on line 10

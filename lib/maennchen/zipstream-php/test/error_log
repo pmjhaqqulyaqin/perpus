@@ -1,0 +1,14 @@
+[01-Apr-2025 02:53:39 UTC] PHP Warning:  require(/home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/bootstrap.php on line 6
+[01-Apr-2025 02:53:39 UTC] PHP Warning:  require(/home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/bootstrap.php on line 6
+[01-Apr-2025 02:53:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/bootstrap.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/bootstrap.php on line 6
+[01-Apr-2025 02:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/BigintTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/BigintTest.php on line 10
+[01-Apr-2025 02:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/ZipStreamTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/maennchen/zipstream-php/test/ZipStreamTest.php on line 19

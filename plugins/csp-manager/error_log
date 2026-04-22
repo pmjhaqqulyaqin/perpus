@@ -1,0 +1,4 @@
+[01-Apr-2025 02:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "SLiMS\Plugins" not found in /home/mandalo1/public_html/perpus/plugins/csp-manager/slims_csp.plugin.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/plugins/csp-manager/slims_csp.plugin.php on line 12

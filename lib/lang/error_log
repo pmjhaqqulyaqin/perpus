@@ -1,0 +1,16 @@
+[26-Jan-2025 04:41:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "LANG" in /home/mandalo1/public_html/perpus/lib/lang/localisation.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/lang/localisation.php on line 47
+[26-Jan-2025 04:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/lib/lang/string.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/lang/string.php on line 26
+[01-Apr-2025 03:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/lib/lang/string.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/lang/string.php on line 26
+[01-Apr-2025 03:50:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "LANG" in /home/mandalo1/public_html/perpus/lib/lang/localisation.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/lang/localisation.php on line 47

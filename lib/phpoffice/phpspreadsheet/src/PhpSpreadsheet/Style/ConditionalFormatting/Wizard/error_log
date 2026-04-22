@@ -1,0 +1,28 @@
+[01-Apr-2025 03:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/DateValue.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/DateValue.php on line 20
+[01-Apr-2025 03:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/TextValue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/TextValue.php on line 18
+[01-Apr-2025 03:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Errors.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Errors.php on line 13
+[01-Apr-2025 03:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Expression.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Expression.php on line 12
+[01-Apr-2025 03:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/CellValue.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/CellValue.php on line 22
+[01-Apr-2025 03:18:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Blanks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Blanks.php on line 15
+[01-Apr-2025 03:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\ConditionalFormatting\Wizard\WizardAbstract" not found in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Duplicates.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Style/ConditionalFormatting/Wizard/Duplicates.php on line 12

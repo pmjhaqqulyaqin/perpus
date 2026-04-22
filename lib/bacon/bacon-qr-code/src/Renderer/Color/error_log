@@ -1,0 +1,16 @@
+[01-Apr-2025 03:12:43 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Color\ColorInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Gray.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Gray.php on line 8
+[01-Apr-2025 03:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Color\ColorInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Alpha.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Alpha.php on line 8
+[01-Apr-2025 03:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Color\ColorInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Cmyk.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Cmyk.php on line 8
+[01-Apr-2025 03:12:49 UTC] PHP Fatal error:  Uncaught Error: Interface "BaconQrCode\Renderer\Color\ColorInterface" not found in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Rgb.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/bacon/bacon-qr-code/src/Renderer/Color/Rgb.php on line 8

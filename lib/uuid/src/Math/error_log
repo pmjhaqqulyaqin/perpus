@@ -1,0 +1,4 @@
+[01-Apr-2025 03:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Math\CalculatorInterface" not found in /home/mandalo1/public_html/perpus/lib/uuid/src/Math/BrickMathCalculator.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/uuid/src/Math/BrickMathCalculator.php on line 32

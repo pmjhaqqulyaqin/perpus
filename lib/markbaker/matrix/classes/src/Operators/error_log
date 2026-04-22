@@ -1,0 +1,40 @@
+[26-Jan-2025 04:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Multiplication" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Division.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Division.php on line 10
+[26-Jan-2025 04:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/DirectSum.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/DirectSum.php on line 8
+[26-Jan-2025 04:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Subtraction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Subtraction.php on line 8
+[26-Jan-2025 04:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Addition.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Addition.php on line 8
+[26-Jan-2025 04:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Multiplication.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Multiplication.php on line 10
+[01-Apr-2025 03:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Subtraction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Subtraction.php on line 8
+[01-Apr-2025 03:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Addition.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Addition.php on line 8
+[01-Apr-2025 03:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Multiplication.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Multiplication.php on line 10
+[01-Apr-2025 03:45:46 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Multiplication" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Division.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/Division.php on line 10
+[01-Apr-2025 03:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Matrix\Operators\Operator" not found in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/DirectSum.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/markbaker/matrix/classes/src/Operators/DirectSum.php on line 8

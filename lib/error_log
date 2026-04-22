@@ -1,0 +1,4 @@
+[01-Apr-2025 03:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/mandalo1/public_html/perpus/lib/Mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/lib/Mail.php on line 18

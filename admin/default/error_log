@@ -1,0 +1,24 @@
+[26-Jan-2025 05:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/admin/default/submenu.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/default/submenu.php on line 21
+[26-Jan-2025 12:31:53 Asia/Jakarta] PHP Warning:  Undefined global variable $_SESSION in /home/mandalo1/public_html/perpus/admin/default/home.php on line 103
+[26-Jan-2025 12:31:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/default/home.php on line 103
+[26-Jan-2025 12:31:53 Asia/Jakarta] PHP Warning:  Undefined global variable $_SESSION in /home/mandalo1/public_html/perpus/admin/default/home.php on line 458
+[26-Jan-2025 12:31:53 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/default/home.php on line 458
+[01-Apr-2025 03:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/admin/default/submenu.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/default/submenu.php on line 21
+[01-Apr-2025 10:51:08 Asia/Jakarta] PHP Warning:  Undefined global variable $_SESSION in /home/mandalo1/public_html/perpus/admin/default/home.php on line 103
+[01-Apr-2025 10:51:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/default/home.php on line 103
+[01-Apr-2025 10:51:08 Asia/Jakarta] PHP Warning:  Undefined global variable $_SESSION in /home/mandalo1/public_html/perpus/admin/default/home.php on line 458
+[01-Apr-2025 10:51:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/admin/default/home.php on line 458
+[01-Apr-2025 03:51:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INDEX_AUTH" in /home/mandalo1/public_html/perpus/admin/default/session_check.inc.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/default/session_check.inc.php on line 24
+[01-Apr-2025 03:52:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INDEX_AUTH" in /home/mandalo1/public_html/perpus/admin/default/session.inc.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/admin/default/session.inc.php on line 29

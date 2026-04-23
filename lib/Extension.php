@@ -130,7 +130,7 @@ final class Extension
         self::isCoreRequiredFulfilled($notFulfilfilled);
 
         if ($notFulfilfilled) throw new \Error(sprintf(
-            __('Some PHP extension required by SLiMS is not loaded : %s'),
+            'Some PHP extension required by SLiMS is not loaded : %s',
             ucwords(implode(',', $notFulfilfilled))
         ));
         

@@ -1,0 +1,46 @@
+[26-Jan-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/citation/chicago_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/chicago_style_template.php on line 20
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php on line 18
+[26-Jan-2025 05:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php on line 23
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 24
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 24
+[26-Jan-2025 05:31:55 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 50
+[26-Jan-2025 05:31:55 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 50
+[26-Jan-2025 05:32:04 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 24
+[26-Jan-2025 05:32:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 24
+[26-Jan-2025 05:32:04 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 50
+[26-Jan-2025 05:32:04 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 50
+[01-Apr-2025 03:51:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/citation/chicago_style_template.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/chicago_style_template.php on line 20
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 24
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 24
+[01-Apr-2025 03:51:19 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 50
+[01-Apr-2025 03:51:19 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/mla_style_template.php on line 50
+[01-Apr-2025 03:51:35 UTC] PHP Warning:  Undefined variable $gmd_name in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php on line 18
+[01-Apr-2025 03:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/turabian_style_template.php on line 23
+[01-Apr-2025 03:51:35 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 24
+[01-Apr-2025 03:51:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 24
+[01-Apr-2025 03:51:35 UTC] PHP Warning:  Undefined variable $authors in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 50
+[01-Apr-2025 03:51:35 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/citation/apa_style_template.php on line 50

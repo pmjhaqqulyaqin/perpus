@@ -1,0 +1,108 @@
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 19
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $metadata in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 27
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 32
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 33
+[26-Jan-2025 05:31:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 33
+[26-Jan-2025 05:31:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SENAYAN_VERSION" in /home/mandalo1/public_html/perpus/template/default/parts/header.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 36
+[26-Jan-2025 05:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_home.php(18): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[26-Jan-2025 05:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[26-Jan-2025 05:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_modal_advanced.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_modal_advanced.php on line 15
+[26-Jan-2025 05:31:56 UTC] PHP Warning:  Undefined variable $is_login in /home/mandalo1/public_html/perpus/template/default/parts/_member.php on line 10
+[26-Jan-2025 05:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_member.php(40): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[26-Jan-2025 05:31:57 UTC] PHP Warning:  Undefined variable $opac in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 9
+[26-Jan-2025 05:31:57 UTC] PHP Warning:  Attempt to read property "invalid_token" on null in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 9
+[26-Jan-2025 05:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getQuery() in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 22
+[26-Jan-2025 05:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_modal_topic.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_modal_topic.php on line 15
+[26-Jan-2025 05:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_result-search.php(19): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[26-Jan-2025 05:32:00 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 37
+[26-Jan-2025 05:32:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 37
+[26-Jan-2025 05:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/footer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 39
+[26-Jan-2025 05:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_other.php(18): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:16 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 19
+[01-Apr-2025 03:51:16 UTC] PHP Warning:  Undefined variable $metadata in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 27
+[01-Apr-2025 03:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:16 UTC] PHP Warning:  Undefined variable $page_title in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 32
+[01-Apr-2025 03:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_home.php(18): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:16 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 33
+[01-Apr-2025 03:51:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 33
+[01-Apr-2025 03:51:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SENAYAN_VERSION" in /home/mandalo1/public_html/perpus/template/default/parts/header.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/header.php on line 36
+[01-Apr-2025 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_modal_advanced.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_modal_advanced.php on line 15
+[01-Apr-2025 03:51:17 UTC] PHP Warning:  Undefined variable $is_login in /home/mandalo1/public_html/perpus/template/default/parts/_member.php on line 10
+[01-Apr-2025 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_modal_topic.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_modal_topic.php on line 15
+[01-Apr-2025 03:51:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_member.php(40): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:18 UTC] PHP Warning:  Undefined variable $sysconf in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 37
+[01-Apr-2025 03:51:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 37
+[01-Apr-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/footer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/footer.php on line 39
+[01-Apr-2025 03:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_result-search.php(19): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php:11
+Stack trace:
+#0 /home/mandalo1/public_html/perpus/template/default/parts/_other.php(18): include()
+#1 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_navbar.php on line 11
+[01-Apr-2025 03:51:44 UTC] PHP Warning:  Undefined variable $opac in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 9
+[01-Apr-2025 03:51:44 UTC] PHP Warning:  Attempt to read property "invalid_token" on null in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 9
+[01-Apr-2025 03:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getQuery() in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/mandalo1/public_html/perpus/template/default/parts/_search-form.php on line 22

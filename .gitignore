@@ -3,8 +3,7 @@
 /update_pass.sql
 /test_db.php
 /database/*.sql
-/images/persons/*
-!/images/persons/index.html
+# /images/persons/* — tracked for deployment
 # /images/docs/* — tracked for deployment
 /images/barcodes/*
 !/images/barcodes/index.html

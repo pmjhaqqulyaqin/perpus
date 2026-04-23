@@ -5,8 +5,7 @@
 /database/*.sql
 /images/persons/*
 !/images/persons/index.html
-/images/docs/*
-!/images/docs/index.html
+# /images/docs/* — tracked for deployment
 /images/barcodes/*
 !/images/barcodes/index.html
 /images/labels/*

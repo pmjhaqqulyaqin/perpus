@@ -25,7 +25,7 @@ $main_menus = [
   ],
   'librarian' => [
     'text' => __('Librarian'),
-    'url' => 'index.php?p=login'
+    'url' => 'index.php?p=librarian'
   ]
 ];
 ?>

@@ -73,7 +73,7 @@ class Url
     {
         $forceHttps = self::getConfig('url.force_https');
         $loadBalance = self::getConfig('loadbalanced');
-        return ($forceHttps || ($loadBalance && $loadBalance['env'] && $loadBalance['options']['scheme'] === 'https') ? 'https' : ($_SERVER['REQUEST_SCHEME'] ?? ($loadBalance && $loadBalance['env'] ? $loadBalance['options']['scheme'] : 'http'))) . '://';
+        return ($forceHttps ? 'https' : ($loadBalance && $loadBalance['env'] ? $loadBalance['options']['scheme'] : 'http')) . '://';
     }
 
     /**

@@ -69,11 +69,11 @@
             <ul class="space-y-2 text-on-surface-variant text-sm list-none p-0 m-0">
                 <li class="flex items-center gap-2">
                     <span class="material-symbols-outlined text-sm">location_on</span>
-                    Selong, Lombok Timur
+                    Jl. Beririjarak, Kecamatan Wanasaba, Lombok Timur
                 </li>
                 <li class="flex items-center gap-2">
                     <span class="material-symbols-outlined text-sm">mail</span>
-                    perpus@mandualotim.sch.id
+                    info@mandualotim.sch.id
                 </li>
             </ul>
         </div>

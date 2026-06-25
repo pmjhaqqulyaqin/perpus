@@ -38,7 +38,7 @@
                 <ul class="list-reset">
                     <li><a class="text-light" href="index.php?p=libinfo"><?= __('Information'); ?></a></li>
                     <li><a class="text-light" href="index.php?p=services"><?= __('Services'); ?></a></li>
-                    <li><a class="text-light" href="index.php?p=login"><?= __('Librarian'); ?></a></li>
+                    <li><a class="text-light" href="index.php?p=librarian"><?= __('Librarian'); ?></a></li>
                     <li><a class="text-light" href="index.php?p=member"><?= __('Member Area'); ?></a></li>
                 </ul>
             </div>
